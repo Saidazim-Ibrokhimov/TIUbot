@@ -39,6 +39,11 @@ class Database:
                 user_id, full_name, username
             )
 
+    # Broadcast (xabar yuborish) uchun barcha foydalanuvchilar kerak
+    async def get_all_users(self):
+        async with self.conn.acquire() as connection:
+            return await connection.fetch("SELECT user_id FROM users")
+
     async def get_subjects(self):
         async with self.conn.acquire() as connection:
             return await connection.fetch("SELECT id, name FROM subjects")
@@ -73,11 +78,13 @@ class Database:
         async with self.conn.acquire() as connection:
             await connection.execute("INSERT INTO questions (subject_id, question, answer) VALUES ($1, $2, $3)", subject_id, question, answer)
 
+    # OPTIMALLASHTIRILGAN QIDIRUV
     async def search_question(self, subject_id, query_text):
         async with self.conn.acquire() as connection:
-            rows = await connection.fetch("SELECT question, answer FROM questions WHERE subject_id = $1", subject_id)
-            # Oddiy qidiruv logikasi
-            for row in rows:
-                if query_text.lower() in row['question'].lower():
-                    return (row['answer'],)
-            return None
+            # SQLning o'zi ILIKE orqali qidiradi, bu Python loopiga qaraganda ming barobar tezroq
+            result = await connection.fetchval(
+                "SELECT answer FROM questions WHERE subject_id = $1 AND question ILIKE $2 LIMIT 1", 
+                subject_id, f"%{query_text}%"
+            )
+            # Natijani main.py dagi result[0] shartiga moslash uchun list ko'rinishida qaytaramiz
+            return [result] if result else None

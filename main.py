@@ -258,8 +258,12 @@ async def do_broadcast(message: Message, state: FSMContext):
     await state.clear()
 
 async def main():
+    # ENG ASOSIY QISM: Bazaga ulanishni kutib olish
+    await db.connect() 
+    
+    # Render portni band qilish
     await start_web_server()
-    await dp.start_polling(bot)
 
-if __name__ == "__main__":
-    asyncio.run(main())
+    # Telegram bot
+    print("Bot ishga tushdi...")
+    await dp.start_polling(bot)
