@@ -63,6 +63,16 @@ class Database:
         cursor = self.conn.cursor()
         cursor.execute("SELECT user_id FROM users")
         return cursor.fetchall()
+    
+    def get_all_users_info(self):
+    # Jami userlar, qo'shilish sanasi va statusi bilan
+        return self.cursor.execute("SELECT user_id, full_name, created_at, status FROM users").fetchall()
+
+    def get_stats_summary(self):
+        total = self.cursor.execute("SELECT COUNT(*) FROM users").fetchone()[0]
+        active = self.cursor.execute("SELECT COUNT(*) FROM users WHERE status = 'active'").fetchone()[0]
+        blocked = self.cursor.execute("SELECT COUNT(*) FROM users WHERE status = 'blocked'").fetchone()[0]
+        return total, active, blocked
 
 
     # --- FANLAR (SUBJECTS) BILAN ISHLASH ---

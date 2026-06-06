@@ -22,7 +22,7 @@ J: Qarz oluvchining tilxati yoki qarz beruvchiga muayyan miqdordagi pulni topshi
 733-modda.
 
 S: Qarz shartnomasi bo‘yicha foizlar masalasida qaysi fikr to‘g‘ri?
-J: Qarz beruvchi, agar qonunda yoki shartnomada boshqacha tartib nazarda tutilgan bo‘lmasa, qarz summasidan foizlar olish huquqiga ega.
+J: Varianlar ichidan mantiqan to'g'risini belgilang! Qarz beruvchi, agar qonunda yoki shartnomada boshqacha tartib nazarda tutilgan bo‘lmasa, qarz summasidan foizlar olish huquqiga ega.
 734-modda.
 
 S: Agar foiz to‘lash tartibi va muddati shartnomada belgilanmagan bo‘lsa, foizlar:
@@ -36,3 +36,2354 @@ J: Qarz beruvchi qarzni qaytarish haqida talab qo‘ygan kundan boshlab o‘ttiz
 S: Foizsiz qarz summasini muddatidan oldin qaytarish:
 J: Qarz beruvchining roziligisiz ham amalga oshirilishi mumkin.
 735-modda.
+
+S: Foizli qarz summasini muddatidan oldin qaytarish qachon mumkin?
+J: Faqat qarz beruvchining roziligi bilan yoki shartnomada nazarda tutilgan bo‘lsa.
+735-modda.
+
+S: Qarz oluvchi qarzni o‘z vaqtida qaytarmagan taqdirda, u:
+J: Qarz summasini qaytarish kechiktirilgan kunlar uchun shartnomada yoki 327-moddada belgilangan miqdorda foizlar to‘laydi.
+736-modda.
+
+S: Qarz bo‘lib-bo‘lib qaytarilishi belgilangan bo‘lsa va navbatdagi to‘lov kechiktirilsa, qarz beruvchi:
+J: Qarzning qolgan hamma summasini foizlari bilan birga muddatidan oldin qaytarishni talab qilishga haqli.
+736-modda.
+
+S: Qarz shartnomasi yuzasidan da’volashish nimani anglatadi?
+J: Qarz oluvchining pul yoki ashyolarni amalda qarz beruvchidan umuman olmaganligini yoki shartnomada ko‘rsatilganidan kam miqdorda olganligini isbotlashi.
+737-modda.
+
+S: Yozma shakl talab etilgan qarz shartnomasi bo‘yicha guvohlar ko‘rsatmasi qachon yo‘l qo‘yiladi?
+J: Shartnoma aldash, zo‘rlik, tahdid, qarz beruvchi bilan qarz oluvchining yomon niyatda kelishishi yoki boshqa og‘ir holatlar ta’sirida tuzilgan bo‘lsa.
+737-modda.
+
+S: Agar qarz oluvchi qarz shartnomasi bo‘yicha pulni umuman olmaganligi aniqlansa:
+J: Qarz shartnomasi tuzilmagan hisoblanadi.
+737-modda.
+
+S: Qarz majburiyati ta’minoti yo‘qotilsa va bu holatda qarz beruvchi aybdor bo‘lmasa, u:
+J: Qarz oluvchidan qarz summasini muddatidan oldin qaytarishni talab qilishga haqli.
+738-modda.
+
+S: Aniq maqsadli qarz bo‘yicha qarz oluvchi:
+J: Qarz mablag‘laridan maqsadli foydalanilishini ta’minlashi va qarz beruvchiga buni nazorat qilish imkoniyatini berishi shart.
+739-modda.
+
+S: Obligatsiya nimani tasdiqlaydi?
+J: Uning egasi obligatsiyani chiqargan shaxsdan obligatsiyada nazarda tutilgan muddatda obligatsiyaning nominal qiymatini yoki boshqa mulkiy ekvivalentini olish huquqini tasdiqlaydi.
+741-modda.
+
+S: Davlat zayomi shartnomasida taraflar qanday maqomda ishtirok etadi?
+J: Qarz oluvchi — davlat (yoki vakolatli organ), qarz beruvchi — fuqaro yoki yuridik shaxs.
+743-modda.
+
+S: Davlat zayomlarining huquqiy xususiyati qaysi javobda to‘g‘ri aks etgan?
+J: Zayomlar ixtiyoriy bo‘lib, qarz beruvchi tomonidan davlat obligatsiyalari yoki boshqa qimmatli qog‘ozlarni sotib olish yo‘li bilan rasmiylashtiriladi.
+743-modda.
+
+S: Davlat zayomi shartnomasi qanday yo‘l bilan tuziladi?
+J: Qarz beruvchi tomonidan chiqarilgan davlat obligatsiyalarini yoki boshqa davlat qimmatli qog‘ozlarini sotib olishi yo‘li bilan.
+743-modda.
+
+S: Davlat zayomi shartlari (konversiya) qachon o‘zgartirilishi mumkin?
+J: Chiqarilgan zayom shartlarini o‘zgartirishga yo‘l qo‘yilmaydi.
+743-modda.
+
+S: Davlat zayomi shartnomasi bo‘yicha davlatning javobgarligi:
+J: Davlat zayomi shartnomasi boʻyicha davlat ushbu Kodeksning qoidalariga muvofiq javobgar boʻladi.
+743-modda.
+
+S: Kredit shartnomasi bo‘yicha kreditor kim bo‘lishi mumkin?
+J: Bank yoki boshqa kredit tashkiloti.
+744-modda.
+
+S: Qaysi holatda kredit shartnomasi qoidalari bank bo‘lmagan tijorat tashkilotlariga ham qo‘llanadi?
+J: Agar qonun hujjatlarida bank bo‘lmagan tashkilotlarga kredit operatsiyalarini amalga oshirish huquqi berilgan bo‘lsa va qoidalardan boshqacha tartib kelib chiqmasa.
+744-modda.
+
+S: Sud kredit bo‘yicha qarzdorlikni undirish haqida hal qiluv qarori chiqarganidan so‘ng:
+J: Kredit boʻyicha qarzdorlikni undirish toʻgʻrisida sudning hal qiluv qarori chiqarilganda sud qarorida koʻrsatilgan, kredit boʻyicha undiriladigan summaga nisbatan ushbu Kodeksning 327-moddasi birinchi va ikkinchi qismlarida hamda 734-moddasi birinchi qismida nazarda tutilgan foizlar, shuningdek neustoyka hisoblanishi toʻxtatiladi.
+744-modda.
+
+S: Kredit shartnomasi qanday shaklda tuzilishi shart?
+J: Yozma shaklda.
+745-modda.
+
+S: Kredit shartnomasining yozma shakliga rioya qilmaslik oqibati:
+J: Kredit shartnomasi haqiqiy hisoblanmaydi (bunday shartnoma o‘z-o‘zidan haqiqiy bo'lmaydi).
+745-modda.
+
+S: Kreditor kredit berishdan bosh tortishga qaysi holatda haqli?
+J: Kreditor qarz oluvchini toʻlovga qobiliyatsiz deb hisoblasa, qarz oluvchi kreditni taʼminlash majburiyatlarini bajarmasa, shartnomada nazarda tutilgan kreditdan aniq maqsadda foydalanish majburiyatini buzsa, shuningdek shartnomada nazarda tutilgan boshqa hollarda qarz oluvchiga kredit shartnomasida nazarda tutilgan kreditni berishdan butunlay yoki qisman bosh tortishga haqli.
+746-modda.
+
+S: Qarz oluvchi kredit olishdan bosh tortishga qachon haqli?
+J: Qarz oluvchi kredit olishdan butunlay yoki qisman bosh tortishga haqli. Agar qonunchilikda yoki shartnomada boshqacha tartib nazarda tutilgan boʻlmasa, qarz oluvchi bu haqda kreditorni kredit shartnomasida belgilab qoʻyilgan kredit berish muddatiga qadar xabardor qilishi shart. Qarz oluvchi kredit shartnomasida nazarda tutilgan kreditdan aniq maqsadda foydalanish majburiyatini buzgan taqdirda kreditor shartnoma boʻyicha qarz oluvchini bundan buyon kreditlashni toʻxtatishga haqli.
+746-modda.
+
+S: 746¹-modda mazmuniga ko‘ra, kreditor dastlab nimani undirish uchun sudga murojaat qiladi?
+J: Dastlab kreditning to'lanmagan qismini
+746¹-modda.
+
+S: Ashyolarni kreditga berish shartnomasi predmeti:
+J: Sifat va assortiment belgilari bilan ajralib turadigan ashyolar.
+747-modda.
+
+S: Ashyolarni kreditga berish shartnomasida sifat, assortimenti va boshqa shartlar qaysi qoidalarga muvofiq bajariladi?
+J: Oldi-sotdi va ashyolarni topshirish to‘g‘risidagi umumiy qoidalarga muvofiq.
+747-modda.
+
+S: Tijorat krediti qaysi shakllarda bo‘lishi mumkin?
+J: Bo‘nak, oldindan haq to‘lash, tovarlar, ishlar yoki xizmatlarga haq to‘lashni kechiktirish va bo‘lib-bo‘lib to‘lash shakllarida.
+748-modda.
+
+S: Faktoring shartnomasida moliya agenti kim bo‘lishi mumkin?
+J: Tijorat banklari yoki bunday faoliyatni amalga oshirish uchun litsenziyaga ega bo‘lgan boshqa tijorat tashkilotlari.
+750-modda.
+
+S: Faktoring shartnomasida voz kechiladigan pul talabnomasi:
+J: Bajarilish muddati kelgan talabnoma (mavjud talabnoma) yoki kelajakda vujudga keladigan talabnoma (bo‘lajak talabnoma) bo‘lishi mumkin.
+751-modda.
+
+S: Bo‘lajak pul talabnomasi moliya agentiga qachon o‘tadi?
+J: Boʻlajak pul talabnomasidan boshqa shaxs foydasiga voz kechilganida, u shartnomada nazarda tutilgan talabnomadan boshqa shaxs foydasiga voz kechish narsasi boʻlgan pul mablagʻlarini qarzdordan olish huquqi vujudga kelganidan keyin moliya agentiga oʻtgan hisoblanadi.
+751-modda.
+
+S: Pul talabnomasidan boshqa shaxs foydasiga voz kechishni taqiqlovchi kelishuv mavjud bo‘lsa ham:
+J: Pul talabnomasidan moliya agenti foydasiga voz kechish haqiqiy hisoblanadi (shartnoma taqiqlari faktoringga to‘sqinlik qilmaydi).
+753-modda.
+
+S: FK ning 754-modda mazmuniga ko‘ra, moliya agentining talabnomani uchinchi shaxs foydasiga qayta voz kechishiga nisbatan:
+J: 42-bob qoidalari qo'llaniladi
+754-modda.
+
+S: Qarzdor qachon pulni moliya agentiga to‘lashga majbur bo‘ladi?
+J: Qarzdor mijozdan yoki moliya agentidan pul talabnomasidan ushbu moliya agenti foydasiga voz kechilganligi haqida yozma bildirishnoma olgan va unda ijro etilishi kerak boʻlgan pul talabnomasi belgilangan, shuningdek toʻlov amalga oshirilishi kerak boʻlgan moliya agenti koʻrsatilgan taqdirda qarzdor toʻlovni moliya agentiga amalga oshirishi shart. 
+755-modda.
+
+S: Qarzdorning roziligisiz qaysi holatda o‘zgartirish mumkin emas?
+J: Qarzdorning roziligisiz pul majburiyatining valyutasi va u amalga oshiriladigan mamlakat oʻzgartirilishi mumkin emas. 
+755-modda.
+
+S: Moliya agenti qarzdorning iltimosiga ko‘ra nimani taqdim etishi shart?
+J: Pul talabnomasidan haqiqatan ham moliya agenti foydasiga voz kechilganligining isbotini.
+755-modda.
+
+S: Agar moliya agenti 755-modda bo‘yicha isbotni taqdim etmasa, qarzdor:
+J: To‘lovni dastlabki kreditorga (mijozga) amalga oshirishga haqli.
+755-modda.
+
+S: Qarzdorning moliya agentiga to‘lov qilishi qanday huquqiy oqibatga olib keladi?
+J: Qarzdorni tegishli pul majburiyatini bajarishdan ozod qiladi.
+755-modda.
+
+S: Agar moliya agenti talabnomani sotib olish yo‘li bilan moliyalashni amalga oshirsa:
+J: U talabnoma bo‘yicha qarzdordan oladigan barcha summalarga egalik huquqini qo‘lga kiritadi.
+756-modda.
+
+S: FK 756-moddaning birinchi qismiga ko‘ra, qarzdordan olingan summa sotib olingan talabnoma bahosidan kam bo‘lsa:
+J: Mijoz farqni moliya agentiga to‘lashga majbur emas.
+756-modda.
+
+S: Agar talabnoma mijoz majburiyatlarini ta’minlash maqsadida voz kechilgan bo‘lsa, moliya agenti:
+J: Qarzdordan olingan pul summasi haqida mijozga hisobot berishga majbur.
+756-modda.
+
+S: Qarzdordan olingan mablag‘ mijoz qarzidan kam bo‘lsa:
+J: Agar shartnomada boshqacha tartib nazarda tutilmagan bo‘lsa, mijoz qarzning qolgan qismi uchun moliya agenti oldida javobgar bo‘lib qoladi.
+756-modda.
+
+S: Qarzdor moliya agentiga qarshi qaysi talablarni hisobga olish uchun taqdim etishi mumkin?
+J: Uning mijoz (dastlabki kreditor) bilan munosabatlaridan kelib chiqqan va moliya agentidan bildirishnoma olgunga qadar mavjud bo‘lgan pul talablarini.
+757-modda.
+
+S: FK 757-modda bo‘yicha qarzdorning hisobga olish huquqi:
+J: Faqat moliya agentidan bildirishnoma olingan paytgacha ijro muddati kelgan talablarga nisbatan amal qiladi.
+757-modda.
+
+S: Qaysi holatda qarzdor moliya agentidan to‘langan summani qaytarib berishni talab qila olmaydi?
+J: Mijoz pul talabnomasidan voz kechish huquqini beruvchi shartnomani buzgan bo‘lsa, lekin moliya agenti pulni haqiqatan ham sotib olgan bo‘lsa.
+758-modda.
+
+S: Qarzdor moliya agentidan summani qaytarishni qachon talab qilishi mumkin?
+J: Agar moliya agenti mijozga va'da qilingan moliyalashni amalga oshirmaganligi isbotlansa yoki u yomon niyatda bo‘lgan bo‘lsa.
+758-modda.
+
+S: Pul talabnomasidan boshqa shaxs foydasiga voz kechish uchinchi shaxslarga nisbatan qachon kuchga ega bo‘ladi?
+J: Voz kechish to‘g‘risida qarzdor yozma ravishda ogohlantirilgan paytdan boshlab.
+759-modda.
+
+S: Bir pul talabnomasi bir necha bor voz kechilgan bo‘lsa, talablar qaysi tartibda qanoatlantiriladi?
+J: Qarzdor uchinchi shaxslardan bildirishnomani birinchi bo‘lib qay tartibda olgan bo‘lsa, o‘sha kalendar ketma-ketlikda.
+759-modda.
+
+S: Talablarni qanoatlantirish navbati nimaga tatbiq etiladi?
+J: Moliya agentlari va boshqa kreditorlar o‘rtasidagi ustuvorlik huquqini aniqlashga.
+759-modda.
+
+S: Bank omonati shartnomasi qachon tuzilgan hisoblanadi?
+J: Bankka omonat summasi kelib tushgan (topshirilgan) paytdan boshlab.
+760-modda.
+
+S: Fuqaro omonatchi bo‘lgan bank omonati shartnomasi:
+J: Ommaviy shartnoma hisoblanadi.
+760-modda.
+
+S: Muddatli omonat muddatidan oldin qaytarilganda, agar shartnomada boshqacha tartib bo‘lmasa:
+J: Foizlar talab qilib olinguncha saqlanadigan omonatlarga bank to‘laydigan miqdorda to‘lanadi.
+762-modda.
+
+S: Bank omonatning qaytarilishini ta’minlash bo‘yicha majburiyatlarini bajarmagan taqdirda omonatchi qaysi huquqlarga ega bo‘ladi?
+J: Omonatni darhol qaytarishni, undan foydalanganlik uchun 327-modda bo‘yicha foizlar to‘lashni va zararni qoplashni talab qilish huquqiga.
+763-modda.
+
+S: Bank omonatchiga omonatning qaytarilishi ta’minlanganligi to‘g‘risida axborotni qachon berishi shart?
+J: Bank omonati shartnomasini tuzish paytida (yoki omonatchining birinchi talabiga ko‘ra).
+763-modda.
+
+S: Bank omonatni qaytarish haqidagi talabni belgilangan muddatda bajarmagan taqdirda qanday javobgarlik yuzaga keladi?
+J: Bank qaytarish kechiktirilgan butun davr uchun qonuniy foizlar (327-modda) va zararni to‘lashga majbur bo‘ladi.
+763-modda.
+
+S: Uchinchi shaxs tomonidan omonatchining hisobvarag‘iga pul kiritilishi qaysi holatda mumkin?
+J: Agar shartnomada boshqacha tartib nazarda tutilmagan bo‘lsa, uchinchi shaxs omonatchining hisobvarag‘iga pul o‘tkazishi mumkin.
+764-modda.
+
+S: Uchinchi shaxs omonatchining hisobvarag‘iga pul kiritganida omonatchining roziligi qanday ifodalanadi?
+J: Omonatchi bankdan omonat hisobvarag‘iga kelib tushgan mablag‘larni tasarruf etish bo‘yicha operatsiyalarni amalga oshirishi yoki shartnomada dastlab rozilik ko‘rsatilgan bo‘lishi bilan.
+764-modda.
+
+S: Uchinchi shaxs foydasiga qo‘yilgan omonat bo‘yicha uchinchi shaxs qachondan omonatchi huquqlarini oladi?
+J: U uchinchi shaxs sifatida bankka birinchi marta talab taqdim etgan yoki ushbu huquqlardan foydalanish niyatini bildirgan paytdan boshlab.
+765-modda.
+
+S: Uchinchi shaxs foydasiga qo‘yilgan omonatdan uchinchi shaxs voz kechsa, kim omonatni talab qilish huquqiga ega?
+J: Omonatni qo‘ygan shaxs (dastlabki omonatchi).
+765-modda.
+
+S: Omonat daftarchasida qaysi ma’lumot bo‘lishi majburiy hisoblanadi?
+J: Bankning nomi, joylashgan yeri, omonat turi, summasi, hisobvaraq raqami va omonat bo‘yicha barcha harakatlar.
+766-modda.
+
+S: Omonat daftarchasidagi ma’lumotlarning huquqiy ahamiyati nimada?
+J: Ular bank va omonatchi o‘rtasida omonat qo‘yilganligi va undan pul olinganligining mutloq isboti hisoblanadi.
+766-modda.
+
+S: Nomiga yozilgan omonat daftarchasi yo‘qotilganda bank nima qilishi shart?
+J: Omonatchining arizasiga ko‘ra uning nomiga yangi omonat daftarchasini berishi shart.
+766-modda.
+
+S: Omonat (depozit) sertifikati qanday hujjat hisoblanadi?
+J: Omonat summasini va omonatchining muddati tugagach omonatni hamda foizlarni olish huquqini tasdiqlovchi qimmatli qog‘oz.
+767-modda.
+
+S: Omonat sertifikati muddatidan oldin taqdim etilganda bank qanday foiz to‘laydi?
+J: Talab qilib olinguncha saqlanadigan omonatlar uchun belgilangan miqdorda foiz to‘laydi.
+767-modda.
+
+S: Bank hisobvarag‘i shartnomasi bo‘yicha bankning asosiy majburiyati nimadan iborat?
+J: Mijozning hisobvarag‘iga kelib tushgan pul mablag‘larini qabul qilish, hisobga kiritish, mijozning farmoyishlarini bajarish va operatsiyalarni amalga oshirish.
+770-modda.
+
+S: Bank mijozning hisobvarag‘idagi pul mablag‘laridan qaysi shartda foydalanishi mumkin?
+J: Mijozning pul mablag‘larini tasarruf etish huquqini cheklamaslik va uning talablarini uzluksiz bajarish sharti bilan.
+770-modda.
+
+S: Mijoz bankdagi hisobvaraqdagi pul mablag‘larini qanday tasarruf etadi?
+J: Mustaqil ravishda va qonun doirasida bankka berilgan to‘lov topshiriqlari yoki farmoyishlar orqali.
+770-modda.
+
+S: Bank mijozning pul mablag‘laridan foydalanishni cheklashga qachon haqli?
+J: Faqat sud qarori bilan, hisobvaraqdagi mablag‘lar xatlanganda yoki qonunda to‘g‘ridan-to‘g‘ri nazarda tutilgan hollarda (masalan, jinoiy faoliyatdan olingan daromadlarni legallashtirishga qarshi kurash doirasida).
+771-modda.
+
+S: Bank hisobvarag‘i shartnomasi yozma shaklda tuzilmasa qanday oqibat kelib chiqadi?
+J: Shartnoma haqiqiy hisoblanmaydi (o‘z-o‘zidan haqiqiydir).
+772-modda.
+
+S: Bank hisobvarag‘i shartnomasi qanday usulda tuziladi?
+J: Mijozning ariza berishi va bank tomonidan hisobvaraq ochilishi hamda shartnoma imzolanishi yo‘li bilan.
+772-modda.
+
+S: Bank hisobvarag‘i ochishni qachon rad etishga haqli emas?
+J: E'lon qilingan nizom va shartlarga muvofiq tegishli turdagi hisobvaraq ochish uchun murojaat qilgan har qanday mijozga (agar bankda texnik yoki qonuniy to‘sqinliklar bo‘lmasa).
+773-modda.
+
+S: Bank hisobvarag‘i shartnomasini tuzishdan asossiz bosh tortilgan taqdirda mijoz qaysi huquqqa ega?
+J: Bankni shartnoma tuzishga majburlash va yetkazilgan zararni qoplashni sud tartibida talab qilish huquqiga.
+773-modda.
+
+S: Hisobvaraqdagi pul mablag‘larini tasarruf etish huquqi bankka qanday yo‘l bilan tasdiqlanadi?
+J: Mijoz imzolarining namunalari qo‘yilgan kartochka va muhr izi yoki elektron raqamli imzo (kodlar) orqali.
+774-modda.
+
+S: Mijoz uchinchi shaxs talabiga muvofiq hisobvaraqdan pul o‘chirishga qachon farmoyish berishi mumkin?
+J: Shartnomada uchinchi shaxslarning akseptisiz (aktsiz) pul o‘chirish huquqi to‘g‘ridan-to‘g‘ri nazarda tutilgan bo‘lsa.
+774-modda.
+
+S: Bank uchinchi shaxs foydasiga pul o‘chirish farmoyishini qaysi shartda qabul qiladi?
+J: Mijozning bankka oldindan bergan yozma roziligi va uchinchi shaxs taqdim etgan hujjatlar shartnoma shartlariga to'liq mos kelganda.
+774-modda.
+
+S: Hisobvaraqdagi mablag‘larni tasarruf etish huquqi qaysi vositalar bilan ham tasdiqlanishi mumkin?
+J: Elektron to‘lov vositalari, plastik kartochkalar, cheklar va boshqa maxsus kodlar (parollar) yordamida.
+774-modda.
+
+S: Agar shartnomada boshqacha tartib nazarda tutilmagan bo‘lsa, bank hisobvaraqqa kelib tushgan pul mablag‘lari bilan nima qilishi shart?
+J: Mablag‘ kelib tushgan kunning ertasidan kechiktirmasdan uni mijozning hisobvarag‘iga kiritishi shart.
+775-modda.
+
+S: Bank hisobvaraq bo‘yicha operatsiyalarni bajarishda nimaga amal qiladi?
+J: Qonunga, bank qoidalariga va shartnomada belgilangan muddat hamda shartlarga.
+775-modda.
+
+S: Agar qonun yoki shartnomada boshqacha muddat belgilanmagan bo‘lsa, bank pul mablag‘larini qachongacha hisobvaraqqa kiritishi shart?
+J: Tegishli to‘lov hujjati bankka kelib tushgan kunning ertasidan kechiktirmasdan.
+775-modda.
+
+S: Hisobvaraq bo‘yicha operatsiyalarni amalga oshirish muddatini buzish qanday oqibatga olib keladi?
+J: Bank mijozga o‘z vaqtida o‘tkazilmagan summa uchun qonuniy foizlar (327-modda) to‘laydi va zararni qoplaydi.
+776-modda.
+
+S: Hisobvaraqda mablag‘ bo‘lmasa ham bank to‘lovni amalga oshirsa, bu qanday huquqiy holat hisoblanadi?
+J: Hisobvaraqni kreditlash (overdraft) hisoblanadi.
+777-modda.
+
+S: Hisobvaraqni kreditlash bilan bog‘liq huquq va majburiyatlar qaysi qoidalarga asosan belgilanadi?
+J: Qarz va kredit to‘g‘risidagi qoidalarga asosan (agar bank shartnomasida boshqacha tartib bo‘lmasa).
+777-modda.
+
+S: Bank xizmatlari uchun haq shartnomada belgilanmagan bo‘lsa, u qanday aniqlanadi?
+J: Odatda bunday xizmatlar uchun qo‘llaniladigan va bank tariflarida belgilangan miqdorda aniqlanadi.
+778-modda.
+
+S: Bank xizmatlari uchun haq, odatda, qachon undirib olinadi?
+J: Har chorak yoki har oy yakunida mijozning hisobvarag‘idagi mablag‘lardan chegirib qolish yo‘li bilan.
+778-modda.
+
+S: Bank hisobvaraqdagi pul mablag‘laridan foydalanganligi uchun nima to‘laydi?
+J: Shartnomada belgilangan miqdorda foiz to‘laydi.
+779-modda.
+
+S: Agar shartnomada foiz miqdori belgilanmagan bo‘lsa, bank qaysi miqdorda foiz to‘laydi?
+J: Ushbu turdagi hisobvaraqlar uchun bank tomonidan odatda to‘lanadigan miqdorda (talab qilib olinguncha omonat stavkasi bo‘yicha).
+779-modda.
+
+S: Hisobvaraq bo‘yicha bank va mijozning o‘zaro pul talablari qanday yo‘l bilan bekor qilinadi?
+J: Hisobga olish (zachyot) yo‘li bilan.
+780-modda.
+
+S: Talablarni hisobga olish amalga oshirilganda bank nima qilishi shart?
+J: Mijozni amalga oshirilgan hisobga olish operatsiyasi to‘g‘risida xabardor qilishi shart.
+780-modda.
+
+S: Hisobvaraqdan pul mablag‘larini o‘chirishning asosiy asosi nima?
+J: Mijozning bevosita topshirig‘i (farmoyishi).
+781-modda.
+
+S: Mijoz topshirig‘isiz pul mablag‘lari qaysi holatda o‘chirilishi mumkin?
+J: Sud qarori bilan yoki qonunda belgilangan yuborilishi majburiy bo‘lgan inkasso topshiriqlari asosida.
+781-modda.
+
+S: Hisobvaraqda mablag‘ yetarli bo‘lmasa, pul o‘chirish qaysi navbatda amalga oshiriladi?
+J: Qonunda belgilangan kalendar va guruhlar bo‘yicha ustuvorlik navbatida (masalan, alimentlar, ish haqi birinchi navbatda).
+782-modda.
+
+S: Bank siri oshkor etilgan taqdirda mijoz qanday huquqqa ega?
+J: Bankdan yetkazilgan zararni (ham moddiy, ham ma'naviy) to‘liq qoplashni talab qilish huquqiga.
+785-modda.
+
+S: Hisobvaraqdagi pul mablag‘larini tasarruf etish huquqini cheklash qaysi holatda qonuniy hisoblanadi?
+J: Mablag‘lar sud, prokuratura yoki surishtiruv organlari qaroriga binoan xatlanganda yoki operatsiyalar qonunan to‘xtatilganda.
+786-modda.
+
+S: 787-moddaning mazmuniga ko‘ra, quyidagilardan qaysi biri istisno holat hisoblanadi?
+J: Mijozning arizasiga ko‘ra shartnoma bekor qilinganda bank operatsiyalarni rad eta olmasligi.
+787-modda.
+
+S: Mijoz bank hisobvarag‘i shartnomasini qachon bekor qilishga haqli?
+J: Istalgan vaqtda o‘z xohishiga ko‘ra ariza berish orqali.
+788-modda.
+
+S: Bank tashabbusi bilan hisobvaraq shartnomasi bekor qilinishi uchun majburiy shart qaysi?
+J: Hisobvaraqdagi pul mablag‘lari miqdori shartnomada yoki bank qoidalarida nazarda tutilgan eng kam miqdordan kamayib ketishi va bir oy ichida tiklanmasligi.
+788-modda.
+
+S: Bank mijozni ogohlantirgach, eng kam qoldiq tiklanmasa, shartnoma qachon bekor qilinishi mumkin?
+J: Ogohlantirish yuborilgan kundan boshlab bir oy o‘tganidan keyin.
+788-modda.
+
+S: Hisobvaraq bo‘yicha bir yil davomida operatsiya qilinmasa, bank:
+J: Sud tartibida shartnomani bekor qilishni talab qilishga yoki qonunda belgilangan bo‘lsa, shartnomani bekor qilishga haqli.
+788-modda.
+
+S: Hisobvaraqdagi qoldiq mablag‘lar mijozga qachon berilishi shart?
+J: Mijozning yozma arizasi olingan kundan boshlab yetti kundan kechiktirmasdan.
+788-modda.
+
+S: Bank hisobvarag‘i shartnomasi bekor qilinishi nimaga asos bo‘ladi?
+J: Hisobvaraqning yopilishiga va undagi operatsiyalar to‘xtatilishiga.
+788-modda.
+
+S: FK 789-moddaning asosiy ahamiyati nimada?
+J: Bank hisobvarag‘ini yopish va hisob-kitoblarni yakunlash tartibini belgilashida.
+789-modda.
+
+S: Fuqarolar o‘rtasidagi tadbirkorlik bilan bog‘liq bo‘lmagan hisob-kitoblar qanday amalga oshirilishi mumkin?
+J: Ham naqd pulda, ham naqd pulsiz shaklda cheklanmagan miqdorda.
+790-modda.
+
+S: Yuridik shaxslar o‘rtasidagi hisob-kitoblarning umumiy qoidasi qaysi?
+J: Hisob-kitoblar naqd pulsiz tartibda amalga oshiriladi (qonunda belgilangan limit doirasida naqd pulga ruxsat bor).
+790-modda.
+
+S: Naqd pulsiz hisob-kitoblar odatda qayer orqali amalga oshiriladi?
+J: Banklar yoki litsenziyaga ega boshqa kredit tashkilotlari orqali.
+790-modda.
+
+S: Quyidagilardan qaysi biri naqd pulsiz hisob-kitob shakli hisoblanmaydi?
+J: Naqd pulni bevosita qo‘ldan-qo‘lga topshirish (kassa orderisiz).
+791-modda.
+
+S: To‘lov topshiriqnomasi bo‘yicha bankning asosiy majburiyati nimadan iborat?
+J: Mijozning hisobvarag‘idan ma'lum summani oluvchining hisobvarag‘iga o‘tkazish majburiyati.
+792-modda.
+
+S: To‘lov topshiriqnomasida ko‘rsatilgan oluvchi qachon bankdan to‘lovni talab qilish huquqiga ega bo‘ladi?
+J: Mablag‘ uning xizmat ko‘rsatuvchi bankidagi hisobvarag‘iga kelib tushgan (kreditlangan) paytdan boshlab.
+792-modda.
+
+S: Bank to‘lov topshiriqnomasini qaysi holatda qabul qilmasligi mumkin?
+J: Mijozning hisobvarag‘ida pul mablag‘lari yetarli bo‘lmaganda (agar overdraft shartlashilmagan bo‘lsa) yoki hujjat rekvizitlari xato bo‘lsa.
+793-modda.
+
+S: To‘lov topshiriqnomasini ijro etishda bank:
+J: Mablag‘ni bevosita oluvchining bankiga yoki jalb qilingan vositachi banklar orqali yetkazishi shart.
+794-modda.
+
+S: To‘lov topshiriqnomasi bajarilmagan taqdirda bankning javobgarligi qaysi modda asosida belgilanadi?
+J: 327 va 796-moddalar asosida.
+796-modda.
+
+S: Akkreditiv bo‘yicha hisob-kitobda bank-emitentning majburiyati nimadan iborat?
+J: Mijozning topshirig‘iga binoan uchinchi shaxsga (oluvchiga) shartnomada belgilangan hujjatlar taqdim etilgan taqdirda to‘lovni amalga oshirish.
+797-modda.
+
+S: Qoplangan (deponentlangan) akkreditivning asosiy belgisi qaysi?
+J: Bank-emitent akkreditiv summasini mijoz hisobidan ijrochi bank tasarrufiga oldindan o‘tkazib qo‘yishi.
+798-modda.
+
+S: Akkreditiv matnida uning turi ko‘rsatilmagan bo‘lsa, u qanday akkreditiv hisoblanadi?
+J: Chaqirib olinadigan akkreditiv hisoblanadi.
+799-modda.
+
+S: Chaqirib olinadigan akkreditivning asosiy huquqiy xususiyati nimada?
+J: Bank-emitent uni mablag‘ oluvchini oldindan ogohlantirmasdan o‘zgartirishi yoki bekor qilishi mumkin.
+799-modda.
+
+S: Agar ijrochi bank akkreditiv bekor qilinganini bilmasdan to‘lov qilgan bo‘lsa:
+J: Bank-emitent ushbu to‘lovni qabul qilishga va ijrochi bank xarajatlarini qoplashga majbur.
+799-modda.
+
+S: Chaqirib olinadigan akkreditivni chaqirib olish bank-emitent zimmasiga qanday majburiyat yuklaydi?
+J: Ijrochi bankni akkreditiv shartlari o‘zgarganligi yoki bekor qilinganligi haqida darhol xabardor qilish majburiyatini.
+799-modda.
+
+S: Chaqirib olinmaydigan akkreditivning muhim belgisi qaysi?
+J: Mablag‘ oluvchining roziligisiz uni o‘zgartirish yoki bekor qilish mumkin emasligi.
+800-modda.
+
+S: Tasdiqlangan akkreditiv nimani anglatadi?
+J: Ijrochi bank bank-emitentning iltimosiga ko‘ra to‘lovni amalga oshirish bo‘yicha o‘z zimmasiga qo‘shimcha majburiyat (kafolat) olishini.
+801-modda.
+
+S: Tasdiqlangan chaqirib olinmaydigan akkreditivni kimning roziligisiz bekor qilib bo‘lmaydi?
+J: Tasdiqlagan ijrochi bank va mablag‘ oluvchining roziligisiz.
+801-modda.
+
+S: Akkreditivni ijro etish storonasi uchun mablag‘ oluvchi nimani taqdim etishi shart?
+J: Akkreditiv shartlariga to‘liq mos keladigan hujjatlarni.
+802-modda.
+
+S: Akkreditiv shartlaridan bittasi buzilgan bo‘lsa:
+J: Ijrochi bank to‘lov qilishni rad etadi.
+802-modda.
+
+S: Ijrochi bank akkreditiv bo‘yicha to‘lov qilgach, uning xarajatlarini kim qoplaydi?
+J: Bank-emitent (u esa o‘z navbatida mijoz hisobidan qoplaydi).
+803-modda.
+
+S: Ijrochi bank hujjatlarni qabul qilishdan bosh tortganda nima qilishi shart?
+J: Bu haqda bank-emitentni va mablag‘ oluvchini sabablarini ko‘rsatgan holda darhol xabardor qilishi shart.
+804-modda.
+
+S: Agar bank-emitent hujjatlarni nomuvofiq deb topsa, u qanday huquqqa ega?
+J: Ijrochi bank to‘lagan summalarni qoplashdan bosh tortish huquqiga ega.
+804-modda.
+
+S: Akkreditiv shartlari buzilganda umumiy qoida bo‘yicha kim kim oldida javobgar?
+J: Bank-emitent mijoz oldida, ijrochi bank esa bank-emitent oldida javobgar bo‘ladi.
+805-modda.
+
+S: Ijrochi bank qoplangan akkreditiv bo‘yicha asossiz to‘lovdan bosh tortsa, kim oldida javobgar bo‘lishi mumkin?
+J: Mablag‘ oluvchi ( benefitsiar) oldida javobgar bo‘ladi.
+805-modda.
+
+S: Akkreditiv qaysi holatda yopiladi?
+J: Amal qilish muddati tugaganda, mablag‘ to‘liq to‘langanda yoki oluvchi undan voz kechganda.
+806-modda.
+
+S: Deponentlangan akkreditivning foydalanilmagan summasi qayerga qaytariladi?
+J: Bank-emitentga, u esa mijozning hisobvarag‘iga qaytaradi.
+806-modda.
+
+S: Inkasso bo‘yicha hisob-kitobda mijoz bankka qanday topshiriq beradi?
+J: Mijoz nomidan va uning hisobidan qarzdordan to‘lovni yoki to‘lov akseptini olish topshirig‘ini beradi.
+807-modda.
+
+S: Inkasso topshirig‘i bajarilmasa, asosiy qoida bo‘yicha kim javobgar?
+J: Topshiriqni bajarmagan yoki lozim darajada bajarmagan bank mijoz oldida javobgar bo‘ladi.
+811-modda.
+
+S: Chekning huquqiy mohiyati nimada?
+J: Chek beruvchining bankka chek saqlovchiga unda ko‘rsatilgan summani to‘lash haqidagi hech qanday shartsiz yozma farmoyishi bo‘lgan qimmatli qog‘ozdir.
+812-modda.
+
+S: Chekda majburiy rekvizitlardan bittasi bo‘lmasa:
+J: U chek hisoblanmaydi va huquqiy kuchga ega bo‘lmaydi.
+813-modda.
+
+S: Chek bo‘yicha pul to‘lanishining asosiy sharti qaysi?
+J: Chek belgilangan muddatda to‘lovga taqdim etilishi shart.
+814-modda.
+
+S: Chek bo‘yicha pul kimning mablag‘lari hisobidan to‘lanadi?
+J: Chek beruvchining bankdagi mablag‘lari (chek depoziti) hisobidan.
+814-modda.
+
+S: To‘lovchi chek bo‘yicha pul to‘laganidan keyin qaysi huquqqa ega?
+J: Pul olinganligi haqidagi tilxat bilan birga chekning o‘zini qaytarib olishni talab qilish huquqiga.
+814-modda.
+
+S: Qaysi turdagi chek boshqa shaxsga berilishi mumkin emas?
+J: Nominal (faqat muayyan shaxs nomiga yozilgan va o'tkazilmaydigan) cheklar.
+815-modda.
+
+S: O‘tkazma chekda pul to‘lovchiga qilingan indossament qanday huquqiy kuchga ega?
+J: U kvitansiya (pul olinganligi haqidagi tasdiq) kuchiga ega bo‘ladi.
+815-modda.
+
+S: Qaysi indossament haqiqiydir deb hisoblanadi?
+J: Chekda aks etgan va chek huquqini to‘liq o‘tkazuvchi toza (blankli) yoki to‘liq indossament.
+815-modda.
+
+S: O‘tkazma chekning qonuniy egasi kim hisoblanadi?
+J: O‘z huquqini uzluksiz indossamentlar zanjiri bilan isbotlagan chek saqlovchi.
+815-modda.
+
+S: Avalni kim berishi mumkin?
+J: Chek bo‘yicha majburiyatdor bo‘lmagan har qanday uchinchi shaxs (shu jumladan bank ham).
+816-modda.
+
+S: Aval kim uchun berilgani ko‘rsatilmagan bo‘lsa, u kim foydasiga berilgan hisoblanadi?
+J: Chek beruvchi foydasiga berilgan hisoblanadi.
+816-modda.
+
+S: Avalchi qanday javobgarlikka ega?
+J: U kim uchun aval bergan bo‘lsa, o‘sha shaxs bilan solidar javobgar bo‘ladi.
+816-modda.
+
+S: Asosiy majburiyat haqiqiy bo‘lmasa ham, aval majburiyati qachon saqlanib qoladi?
+J: Faqat chekning shakli (rekvizitlari) buzilganligi sababli majburiyat haqiqiy bo‘lmagan hollardan tashqari hamma vaqt saqlanib qoladi.
+816-modda.
+
+S: Chekni inkassoga topshirish nimaga tenglashtiriladi?
+J: Chekni to‘lovga taqdim etishga tenglashtiriladi.
+817-modda.
+
+S: Inkassolangan chek bo‘yicha mablag‘lar qachon chek saqlovchi hisobiga kiritiladi?
+J: To‘lovchidan pul mablag‘lari olinganidan keyin.
+817-modda.
+
+S: To‘lovchi inkassolangan chek bo‘yicha nimalarni tekshirishi shart?
+J: Chekning haqiqiyligini va indossamentlar zanjirining uzluksizligini.
+818-modda.
+
+S: Soxta chek bo‘yicha to‘lov oqibatida zarar kim zimmasiga yuklanadi?
+J: To‘lovchi bank yoki chek beruvchining aybiga qarab (aybdor taraf zimmasiga) yuklanadi.
+818-modda.
+
+S: Chek bo‘yicha pul to‘lashdan bosh tortganlik qaysi usul bilan tasdiqlanishi mumkin?
+J: Notariusning norozilik hujjati, to‘lovchining chekka yozgan belgisi yoki inkasso qiluvchi bankning ma'lumotnomasi bilan.
+819-modda.
+
+S: Norozilik qachongacha amalga oshirilishi kerak?
+J: Chekni to‘lovga taqdim etish muddati tugagunga qadar (yoki muddati tugagan kundan keyingi ish kunidan kechiktirmasdan).
+819-modda.
+
+S: Chek saqlovchi pul to‘lanmaganligi haqida kimlarga xabar berishi shart?
+J: O‘zidan oldingi indossantga va chek beruvchiga norozilik hujjati tuzilgan kundan keyingi ikki ish kuni ichida.
+819-modda.
+
+S: Chek bo‘yicha daʼvo qo‘zg‘atish muddati qancha?
+J: Olti oy.
+821-modda.
+
+S: Topshiriq shartnomasi bo‘yicha vakil tuzgan bitimdan kelib chiqadigan huquq va majburiyatlar kimda vujudga keladi?
+J: Bevosita topshiriq beruvchida.
+826-modda.
+
+S: Vakil topshiriqni qachon shaxsan bajarishi kerak?
+J: Hamma vaqt, topshiriqni boshqa shaxsga o‘tkazish (boshqa shaxsga topshirish) qonun yoki shartnomada ruxsat etilgan hollardan tashqari.
+828-modda.
+
+S: Vakil topshiriqni bajarish jarayonida topshiriq beruvchiga nima taqdim etishi shart?
+J: Ishning borishi to‘g‘risidagi barcha ma'lumotlarni va topshiriq bajarilgach, hisobot hamda hujjatlarni.
+829-modda.
+
+S: Vakil qaysi huquqqa ega, agar topshiriqni bajarishni boshqa shaxsga topshirsa va bu shartnomada nazarda tutilmagan bo‘lsa?
+J: Faqat topshiriq beruvchining manfaatlarini himoya qilish uchun vaziyat majbur qilgan hollarda (masalan, og‘ir kasallik).
+828-modda.
+
+S: Topshiriq beruvchi vakilga qanday majburiyat yuklaydi?
+J: Topshiriqni bajarish uchun zarur mablag‘lar bilan ta'minlash va xarajatlarni qoplash majburiyatini.
+830-modda.
+
+S: Topshiriq shartnomasi bekor qilinsa, vakilga qaysi majburiyat yuklanadi?
+J: Olingan ishonchnomani va topshiriq bo'yicha hisobotlarni darhol qaytarish majburiyati.
+829-modda.
+
+S: Vakil topshiriqni boshqa shaxsga topshirsa, topshiriq beruvchi o‘rinbosarni rad eta oladimi?
+J: Ha, istalgan vaqtda rad etishga haqli.
+828-modda.
+
+S: Agar topshiriq shartnomasi bekor qilingani vakilga noma’lum bo‘lsa, uning qilgan harakatlari kim zimmasiga majburiyat yuklaydi?
+J: Topshiriq beruvchi va uning huquqiy vorislari zimmasiga.
+833-modda.
+
+S: Tadbirkor sifatida ish olib borayotgan vakilni topshiriq shartnomasidan bosh tortish to‘g‘risida qancha muddat oldin xabardor qilish talab etiladi?
+J: Kamida o‘ttiz kun oldin (agar shartnomada uzoqroq muddat bo‘lmasa).
+832-modda.
+
+S: Vakil vafot etsa, uning merosxo‘rlari nimani qilishlari shart?
+J: Topshiriq beruvchini xabardor qilishi va uning mol-mulkini saqlash choralarini ko‘rishi shart.
+834-modda.
+
+S: Begona shaxsning manfaatini ko‘zlab harakat qilish shartlari qaysi?
+J: Topshiriqsiz, topshiriq beruvchining haqiqiy yoki ehtimoldagi manfaatini ko‘zlab, uning foydasi va ehtiyojiga qarab oqilona harakat qilish.
+836-modda.
+
+S: Topshiriqsiz harakat qilgan shaxs birinchi imkoniyatda nima qilishi kerak?
+J: Bu haqda manfaatdor shaxsga xabar berishi va uning qarorini kutishi lozim.
+837-modda.
+
+S: Agar manfaatdor shaxs topshiriqsiz harakatlarni ma’qullamasa, javobgarlik kimga yuklanadi?
+J: Harakat qilgan shaxsning o‘z zimmasiga yuklanadi va kelajakdagi xarajatlar qoplanmaydi.
+838-modda.
+
+S: Agar manfaatdor shaxs xabardor qilinmasa, topshiriqsiz harakat qiluvchi shaxs nima qilishi kerak?
+J: O‘z harakatlarini to‘xtatishi yoki zarurat tug‘ilsa, oxirigacha yetkazishi shart.
+837-modda.
+
+S: Boshqa shaxsning manfaatini ko‘zlab tuzilgan bitim qachon manfaatdor shaxsga o‘tadi?
+J: Manfaatdor shaxs ushbu bitimni ma'qullagan taqdirda.
+839-modda.
+
+S: Bitim tuzgan shaxs qaysi holatda huquqlarni topshirishni kechiktirishi mumkin?
+J: Faqat uning topshiriqsiz harakat tufayli kelib chiqqan xarajatlari manfaatdor shaxs tomonidan qoplanmaguncha.
+839-modda.
+
+S: Manfaatdor shaxs topshiriqsiz harakatlar uchun qanday majburiyatga ega?
+J: Zarur xarajatlarni va ko‘rilgan haqiqiy zararni qoplash majburiyatiga ega.
+841-modda.
+
+S: Agar harakatlar bevosita manfaatlarni ta’minlamasa, javobgarlik qanday tartibda bo‘ladi?
+J: Harakatlar kutilgan natijani bermagan bo‘lsa ham, agar ular oqilona qilingan bo‘lsa, xarajatlar qoplanadi.
+841-modda.
+
+S: Manfaatdor shaxs ma’qullagandan keyin topshiriqsiz harakat qilgan shaxsning xarajatlari qanday qoplanadi?
+J: Topshiriq shartnomasi qoidalariga muvofiq qoplanadi.
+840-modda.
+
+S: Vakil olingan narsalarni kechiktirmasdan topshiriq beruvchiga berishi shart bo‘lgan qaysi holatlar?
+J: Topshiriq qisman yoki to‘liq bajarilgan barcha holatlarda.
+829-modda.
+
+Topshiriq beruvchi vakilga topshiriqni bajarish uchun mablag‘ berish majburiyati FK ning qaysi moddasida nazarda tutilgan?
+830-moddada.
+
+S: Vositachilik shartnomasi qaysi shartga binoan tuziladi?
+J: Vositachining haq evaziga komitentning topshirig‘i bo‘yicha o‘z nomidan, lekin komitent hisobidan bitimlar tuzish shartiga binoan.
+842-modda.
+
+S: Vositachi kim hisobidan bitim tuzadi?
+J: Komitent hisobidan.
+842-modda.
+
+S: Vositachi uchinchi shaxs bilan tuzilgan bitim bo‘yicha kimga huquq va majburiyat oladi?
+J: O'ziga (vositachining o‘zida huquq va majburiyatlar vujudga keladi).
+842-modda.
+
+S: Vositachilik shartnomasi amal qilish muddati yoki hududi ko‘rsatilmagan bo‘lsa, vositachi qaysi huquqga ega?
+J: Istalgan vaqtda shartnomani bajarishdan bosh tortish huquqiga (o‘ttiz kun oldin xabardor qilib).
+843-modda.
+
+S: Vositachilik haqi qachon to‘lanadi?
+J: Topshiriq bajarilganidan keyin (yoki shartnomada belgilangan tartibda).
+844-modda.
+
+S: Agar vositachilik shartnomasi komitent sababli bajarilmasa, vositachi qaysi huquqini saqlab qoladi?
+J: Vositachilik haqini va qilingan xarajatlarni undirish huquqini.
+844-modda.
+
+S: Vositachi bitimni komitent ko‘rsatmalariga muvofiq bajarishi shart bo‘lmagan hollarda nima qilishi kerak?
+J: Komitentdan oldindan rozilik so‘rashi, imkoni bo‘lmasa, chetga chiqqanligi haqida komitentni darhol xabardor qilishi lozim.
+846-modda.
+
+S: Agar vositachi bitimni komitent ko‘rsatganidan ham foydaliroq shartlar bilan tuzsa, qo‘shimcha foyda qanday taqsimlanadi?
+J: Taraflar o‘rtasida teng taqsimlanadi (agar shartnomada boshqacha kelishuv bo‘lmasa).
+845-modda.
+
+S: Delkredere vositachilikda vositachi qanday qo‘shimcha haq oladi?
+J: Uchinchi shaxs tomonidan bitimning ijro etilishi uchun kafolat (delkredere) berganligi uchun qo‘shimcha haq oladi.
+844-modda.
+
+S: Vositachi uchinchi shaxs bitimni bajarmagan taqdirda nima qilishi shart?
+J: Bu haqda komitentga darhol xabar berishi, dalillarni to‘plashi va talab qilish huquqlarini komitentga o‘tkazishi shart.
+847-modda.
+
+S: Vositachi qo‘shimcha vositachilik shartnomasi tuzgan taqdirda kim javobgar bo‘ladi?
+J: Qo‘shimcha vositachining harakatlari uchun komitent oldida vositachining o‘zi javobgar bo‘ladi.
+848-modda.
+
+S: Vositachilik shartnomasi bekor qilinishidan oldin komitent qo‘shimcha vositachi bilan bevosita munosabatga kirishishi mumkinmi?
+J: Yo‘q, shartnomada boshqacha tartib bo‘lmasa, bevosita munosabatga kirishishga haqli emas.
+848-modda.
+
+S: Vositachi sotadigan mol-mulkning bahosi qanday belgilanadi?
+J: Komitent bilan kelishilgan holda yoki shartnomada ko‘rsatilgan narx bo‘yicha.
+846-modda.
+
+S: Vositachi komitent ko‘rsatmasidan chetga chiqsa, qanday holatda farqni to‘laydi?
+J: Mol-mulkni belgilangan narxdan past sotganida, agar u bunday narxda sotish zarurligini va zarar oldi olinganligini isbotlay olmasa.
+846-modda.
+
+S: Komitent vositachidan ijro etilgan narsalarni qabul qilmasa, vositachi qaysi majburiyatdan ozod bo‘lmaydi?
+J: Mol-mulkni saqlash majburiyatidan ozod bo‘lmaydi, lekin uni komitent hisobidan sotishga haqli.
+855-modda.
+
+S: Komitentning mol-mulki vositachida bo‘lsa, u ushbu mol-mulkni qanday ushlab turadi?
+J: O‘ziga tegishli bo‘lgan to‘lovlar (haq va xarajatlar) to‘lanmaguncha mulkni qonuniy ushlab turish (uderjanie) huquqiga ega.
+850-modda.
+
+S: Komitent to‘lovga qobiliyatsiz bo‘lsa, vositachining huquqi qanday cheklanishi mumkin?
+J: Uning ushlab qolgan mulkka bo‘lgan huquqi garov huquqi kabi qanoatlantiriladi, lekin umumiy navbat tartibiga rioya qilinadi.
+850-modda.
+
+S: Vositachi komitentning hisobidan tushgan summalarni qaysi huquq asosida ushlab qolishi mumkin?
+J: Shartnoma bo‘yicha unga to‘lanishi lozim bo‘lgan haq va xarajatlarni chegirib qolish huquqi asosida.
+854-modda.
+
+S: Vositachi komitentning mol-mulkining yo‘qolishi, shikastlanishi yoki yetishmasligi uchun qachon javobgar bo‘ladi?
+J: Agar bu holat uning ixtiyorida (saqlovida) bo‘lgan vaqtda sodir bo‘lsa va u aybsizligini isbotlay olmasa.
+851-modda.
+
+Vositachilik topshirig‘i uchun qilingan xarajatlarni qoplash qaysi moddada nazarda tutilgan?
+853-moddada.
+
+S: Komitent vositachilik topshirig‘ini bekor qilganda vositachining ko‘rgan zarari qanday qoplanadi?
+J: Muddatsiz shartnomada vositachiga yetkazilgan zararlar to‘liq qoplanadi.
+855-modda.
+
+S: Muddati ko‘rsatilmagan vositachilik shartnomasi bekor qilinsa, komitent vositachiga xabarni qachon berishi shart?
+J: Kamida o‘ttiz kun oldin.
+855-modda.
+
+S: Komitent vositachining ixtiyoridagi mol-mulkni darhol tasarruf etmasa, vositachi nima qilishi mumkin?
+J: Mol-mulkni komitent hisobidan saqlashga topshirishi yoki uni mumkin bo‘lgan eng maqbul narxda sotishi mumkin.
+855-modda.
+
+S: Vositachi shartnomani bajarishdan bosh torta oladimi?
+J: Faqat qonun yoki shartnomada nazarda tutilgan hollarda, yoki shartnoma muddatsiz bo‘lsa (30 kun oldin ogohlantirib).
+856-modda.
+
+S: Vositachi shartnomani bajarishdan bosh tortsa, komitentning mol-mulki bilan qanday majburiyat yuklanadi?
+J: U topshiriq bekor qilinganidan keyin ham komitentning mol-mulkini u kelib qabul qilib olgunga qadar saqlashi shart.
+857-modda.
+
+S: Shartnoma bekor bo‘lganida vositachi qanday huquqlarga ega?
+J: Bajarilgan qism uchun vositachilik haqini va qilingan xarajatlarni talab qilish huquqiga.
+858-modda.
+
+S: Vositachilik shartnomasi qaysi holatlarda bekor qilinadi?
+J: Komitent topshiriqdan voz kechganda, vositachi rad etganda, vositachi vafot etganda, muomalaga layoqatsiz deb topilganda yoki bankrot bo‘lganda.
+858-modda.
+
+S: Komitent muddati ko‘rsatilmagan shartnomani bekor qilsa, vositachiga qanday to‘lovlar qilinadi?
+J: Bajarilgan topshiriqlar uchun haq va bekor qilingunga qadar qilingan xarajatlar.
+855-modda.
+
+S: Vositachi vositachilik shartnomasi bekor qilinguncha qanday huquqni saqlab qoladi?
+J: O‘ziga tegishli to‘lovlarni ta'minlash uchun komitent mulkini ushlab turish huquqini.
+850-modda.
+
+S: Vafot etgan vositachi yoki yuridik shaxs tugatilgan taqdirda shartnoma qanday bo‘ladi?
+J: Shartnoma bekor qilinadi.
+858-modda.
+
+S: Mol-mulkni ishonchli boshqarish shartnomasi nima?
+J: Bir taraf (boshqaruv muassisi) o‘z mol-mulkini muayyan muddatga ikkinchi tarafga (ishonchli boshqaruvchiga) ishonchli boshqarish uchun topshirish va u uchinchi shaxs (benefitsiar) manfaati uchun boshqarish majburiyatini olishi.
+859-modda.
+
+S: Ishonchli boshqaruvchi mol-mulk bilan qanday harakat qiladi?
+J: O‘z nomidan, lekin boshqaruv muassisi yoki benefitsiar manfaati uchun qonun va shartnoma doirasida har qanday yuridik va amaliy harakatlarni bajaradi.
+860-modda.
+
+S: Ishonchli boshqaruv shartnomasini qanday asoslarda vujudga keltirish mumkin?
+J: Shartnoma asosida yoki qonunda nazarda tutilgan asoslarda (vasiylik, merosni muhofaza qilish va h.k.).
+861-modda.
+
+S: Mol-mulkni ishonchli boshqarish obyekti nimalardan iborat bo‘lishi mumkin?
+J: Ko‘chmas mulk, qimmatli qog‘ozlar, mutlaq huquqlar va boshqa alohida mol-mulklar.
+862-modda.
+
+S: Mol-mulkni ishonchli boshqarish subyektlari kimlar bo‘lishi mumkin?
+J: Boshqaruv muassisi, ishonchli boshqaruvchi va naf oluvchi (benefitsiar).
+863-modda.
+
+S: Ishonchli boshqaruvchi kim bo‘likshi mumkin?
+J: Tadbirkor bo‘lgan jismoniy shaxs yoki tijorat tashkiloti (qonuniy asoslardan tashqari).
+864-modda.
+
+S: Mol-mulkni ishonchli boshqaruvchi faqat qachon tayinlanishi mumkin?
+J: Boshqaruv muassisi va ishonchli boshqaruvchi o‘rtasida o‘zaro ixtiyoriy kelishuv bo‘lganda yoki qonuniy majburiyat yuzaga kelganda.
+864-modda.
+
+S: Mol-mulkni ishonchli boshqarish shartnomasida quyidagilar qaysi biri kiritilishi shart?
+J: Boshqaruvga topshirilayotgan mol-mulkning aniq tarkibi, naf oluvchi, boshqaruvchiga to‘lanadigan haq miqdori va shartnoma muddati.
+865-modda.
+
+S: Ishonchli boshqarish shartnomasi maksimal muddatga qancha tuziladi?
+J: Besh yilgacha (alohida ob'ektlar uchun qonunda boshqa muddat belgilanmagan bo‘lsa).
+866-modda.
+
+S: Shartnoma muddati tugagach, taraflardan biri bekor qilmasa shartnoma qanday hisoblanadi?
+J: Xuddi o‘sha muddatga va o‘sha shartlarda uzaytirilgan (prolongatsiya qilingan) hisoblanadi.
+866-modda.
+
+S: Mol-mulkni ishonchli boshqarish shartnomasi qanday shaklda tuziladi?
+J: Yozma shaklda.
+867-modda.
+
+S: Ko‘chmas mol-mulkni ishonchli boshqarish shartnomasi qaysi tartibda ro‘yxatdan o‘tadi?
+J: Ko‘chmas mulk huquqini o‘tkazishni davlat ro‘yxatidan o‘tkazish uchun belgilangan tartibda.
+867-modda.
+
+S: Mol-mulkni ishonchli boshqarish shartnomasining shakliga rioya qilmaslik nima natija beradi?
+J: Shartnoma haqiqiy hisoblanmaydi (o‘z-o‘zidan haqiqiydir).
+867-modda.
+
+S: Ishonchli boshqaruvdagi mol-mulk boshqaruv muassisining boshqa mol-mulkidan qanday ajratiladi?
+J: U muassisning boshqa mulkidan va boshqaruvchining o‘z mulkidan alohida ajratiladi, alohida balansda aks ettiriladi va alohida bank hisobvarag‘i ochiladi.
+868-modda.
+
+S: Boshqaruv muassisining qarzlari bilan ishonchli boshqaruvdagi mol-mulkni ta’minlash mumkinmi?
+J: Yo‘q, muassis bankrot bo‘lgan hollar bundan istisno.
+868-modda.
+
+S: Ishonchli boshqaruvchi uchinchi shaxslarning huquqlari borligini qanday bilishi shart?
+J: U shartnoma tuzish paytida mol-mulk garovda yoki boshqa yuklamalar ostida ekanligi haqida ogohlantirilishi shart.
+869-modda.
+
+S: Ishonchli boshqaruvchi uchinchi shaxslar huquqini xabardor qilmasa, nima qilishi mumkin?
+J: Shartnomani bekor qilishni va bir yillik haq to‘lanishini talab qilib sudga murojaat qilishi mumkin.
+869-modda.
+
+S: Ishonchli boshqaruvchi mol-mulkni qanday huquqlar bilan boshqaradi?
+J: Mulkdorning qonun doirasidagi barcha vakolatlari (tasarruf etish shartnomada cheklanishi mumkin) bilan.
+870-modda.
+
+S: Ishonchli boshqaruvchi boshqa shaxsga mol-mulkni boshqarish huquqini berishi mumkinmi?
+J: Faqat shartnomada ruxsat berilgan bo‘lsa yoki vaziyat majbur qilsa (boshqa shaxsga topshirish).
+871-modda.
+
+S: Ishonchli boshqaruvchi javobgarligi kimga qaratiladi?
+J: Boshqaruv muassisi va naf oluvchiga qaratiladi (ko‘rilgan zarar va boy berilgan foyda uchun).
+872-modda.
+
+S: Ishonchli boshqaruvchi yengib bo‘lmaydigan kuchni isbotlay olmasa nima bo‘ladi?
+J: Etkazilgan zarar uchun o‘zining shaxsiy mol-mulki bilan javobgar bo‘ladi.
+872-modda.
+
+S: Ishonchli boshqaruvchi vakolatlardan chetga chiqsa, kim javobgar bo‘ladi?
+J: Uchinchi shaxslar oldida o‘zining shaxsiy mulki bilan javobgar bo‘ladi.
+872-modda.
+
+S: Mol-mulkni ishonchli boshqarishda qarzlar qanday to‘lanadi?
+J: Dastlab boshqaruvdagi mol-mulk hisobidan, u yetarli bo‘lmasa — boshqaruvchining shaxsiy mulki, u ham yetmasa — muassisning mulki hisobidan.
+872-modda.
+
+S: Ishonchli boshqaruvchi qanday haq oladi?
+J: Shartnomada nazarda tutilgan miqdorda va shaklda (odatda boshqaruvdan kelgan daromad hisobidan).
+873-modda.
+
+S: Mol-mulkni ishonchli boshqarish shartnomasi bekor bo‘lishi qaysi holatlarda yuz beradi?
+J: Naf oluvchi vafot etganda/voz kechganda, boshqaruvchi vafot etganda/layoqatsiz bo‘lganda, muassis bankrot bo‘lganda yoki taraflar voz kechganda.
+874-modda.
+
+S: Mol-mulkni ishonchli boshqarish shartnomasi bekor qilinsa, mol-mulk kimga topshiriladi?
+J: Boshqaruv muassisiga (agar shartnomada boshqacha tartib bo‘lmasa).
+874-modda.
+
+S: Shartnomani taraflardan biri bekor qilmoqchi bo‘lsa, xabardor qilish muddati qancha?
+J: Kamida uch oy oldin (agar shartnomada boshqa muddat bo‘lmasa).
+874-modda.
+
+S: Kompleks tadbirkorlik litsenziyasi shartnomasida nimalar beriladi?
+J: Litsenziarga tegishli bo‘lgan mutlaq huquqlar kompleksi (firma nomi, tovar belgisi, nou-xau va h.k.) foydalanish uchun beriladi.
+875-modda.
+
+S: Kompleks tadbirkorlik litsenziyasi shartnomasi kimlar bilan tuziladi?
+J: Faqat tijorat tashkilotlari va tadbirkor sifatida ro‘yxatdan o‘tgan jismoniy shaxslar (yuridik va jismoniy shaxslar — tadbirkorlar) o‘rtasida.
+875-modda.
+
+S: Litsenziat litsenziarga qanday to‘lovlar qilishi mumkin?
+J: Riks-haq (bir yo‘la to‘lanadigan muayyan summa), davriy to‘lovlar (royalti) yoki tushumdan foizlar shaklida.
+876-modda.
+
+S: Litsenziar kompleks tadbirkorlik litsenziyasi shartnomasida litsenziatga nima taqdim etishi shart?
+J: Texnik va tijorat hujjatlarini hamda litsenziya bo‘yicha huquqlardan foydalanish uchun zarur bo‘lgan boshqa axborotlarni.
+877-modda.
+
+S: Litsenziar litsenziatga qanday yordam berishi shart?
+J: Litsenziat va uning xodimlariga mutlaq huquqlardan samarali foydalanish bilan bog‘liq masalalarda doimiy maslahatlar berishi va yordam ko‘rsatishi shart.
+877-modda.
+
+S: Litsenziat shartnoma asosida nima qilishga majbur?
+J: Litsenziarning tovar belgisidan, firma nomidan shartnomada belgilangan tartibda foydalanishga va sirlarni saqlashga majbur.
+878-modda.
+
+S: Litsenziat tovar yoki xizmat sifatiga qanday rioya qilishi shart?
+J: U ishlab chiqarayotgan tovarlar yoki ko‘rsatayotgan xizmatlar sifati litsenziar tovarlari/xizmatlari sifatiga to‘liq mos kelishi shart.
+878-modda.
+
+S: Litsenziat litsenziarning sirlarini oshkor qilishi mumkinmi?
+J: Yo‘q, olingan tijorat sirlari va maxfiy axborotlarni saqlashga majbur.
+878-modda.
+
+S: Litsenziat yordamchi litsenziyalarni berishi mumkinmi?
+J: Faqat shartnomada to‘g‘ridan-to‘g‘ri nazarda tutilgan bo‘lsa yoki litsenziarning ruxsati bilan (subfranshizing).
+879-modda.
+
+S: Kompleks tadbirkorlik litsenziyasi shartnomasidagi cheklaydigan shartlar nima uchun bo‘lishi mumkin?
+J: Muayyan hududda raqobatni cheklash yoki litsenziatning faoliyat doirasini chegaralash uchun.
+880-modda.
+
+S: Agar cheklaydigan shartlar raqobatga zid bo‘lsa, nima bo‘ladi?
+J: Monopoliyaga qarshi organ yoki sud talabiga binoan bunday shartlar haqiqiy emas deb topilishi mumkin.
+880-modda.
+
+S: Litsenziar litsenziatga tovarlar yoki xizmatlarning narxini belgilashga haqli bo‘lsa, bunday shart haqiqiymi?
+J: Yo‘q, litsenziat sotadigan tovarlar narxini litsenziar tomonidan mutloq belgilab qo‘yilishi taqiqdan kelib chiqib haqiqiy emas deb topiladi.
+880-modda.
+
+S: Litsenziar litsenziatga qo‘yiladigan sifat talablari bo‘yicha javobgarligi qanday?
+J: Litsenziar litsenziat tomonidan sotilayotgan tovarlar (xizmatlar) sifatsizligi bo‘yicha iste'molchilar oldida litsenziat bilan solidar (birgalikda) javobgar bo‘ladi.
+881-modda.
+
+S: Litsenziya shartnomasi qanday o‘zgartiriladi?
+J: Taraflarning o‘zaro kelishuvi bilan, yozma shaklda va shartnoma ro‘yxatdan o‘tkazilgan organda qayta ro‘yxatdan o‘tkazish orqali.
+882-modda.
+
+S: Muddati ko‘rsatilgan litsenziya shartnomasi qanday bekor qilinadi?
+J: Shartnoma muddati tugashi bilan yoki taraflardan birining shartnomani jiddiy buzishi oqibatida sud tartibida.
+883-modda.
+
+S: Muddatsiz litsenziya shartnomasida taraf bekor qilmoqchi bo‘lsa, xabardor qilish muddati qancha?
+J: Kamida olti oy oldin (agar shartnomada uzoqroq muddat bo‘lmasa).
+883-modda.
+
+S: Firma nomi o‘zgarganda shartnoma qanday bo‘ladi?
+J: Shartnoma o‘z kuchini saqlab qoladi, litsenziat yangi firma nomidan foydalanishni talab qilishga haqli, zarurat bo‘lsa haq kamaytiriladi.
+884-modda.
+
+S: Alohida huquq bekor bo‘lsa, shartnoma qanday bo‘ladi?
+J: Shartnoma qolgan huquqlar qismi bo‘yicha o‘z kuchida qoladi, bekor bo‘lgan huquq qismi uchun esa to‘lov miqdori mutanosib ravishda kamaytiriladi.
+885-modda.
+
+S: Omonat saqlash shartnomasi bo‘yicha omonat saqlovchi nima majburiyatga ega?
+J: Ikkinchi tarafdan berilgan ashyoni saqlash va uni butun holatda qaytarish majburiyatiga ega.
+886-modda.
+
+S: Agar yuk topshiruvchi ashyoni shartnomada ko‘rsatilgan muddatda bermasa, nima bo‘ladi?
+J: Omonat saqlovchi shartnomani bajarishdan bosh tortishi va ashyo topshirilmaganligi sababli ko‘rilgan zararni qoplashni talab qilishi mumkin.
+887-modda.
+
+S: Agar shartnoma tuzilgan kundan boshlab muddat belgilanmagan bo‘lsa, omonat saqlovchi qachon majburiyatdan ozod bo‘ladi?
+J: Ashyo shartnomada belgilangan muddat o‘tganidan keyin topshirilmasa yoki uzoq vaqt kelib tushmasa, omonat saqlovchi majburiyatdan ozod bo‘ladi.
+887-modda.
+
+S: Omonat saqlovchi ashyoni saqlash uchun o‘ziga berishni talab qilishi mumkinmi?
+J: Yo‘q, agar qonunda yoki shartnomada boshqacha tartib bo‘lmasa, ashyoni topshirishni majburlab talab qila olmaydi.
+887-modda.
+
+S: Omonat saqlash shartnomasi professional faoliyat sifatida amalga oshirilsa, omonat saqlovchi qaysi holatda javobgar bo‘ladi?
+J: Agar zarar yengib bo‘lmaydigan kuch (fors-major) yoki ashyoning o‘z xususiyatlari tufayli kelib chiqqanini isbotlay olmasa, hamma vaqt javobgar bo‘ladi.
+893-modda.
+
+S: Omonat saqlash shartnomasi qaysi hollarda yozma shaklda tuzilishi shart?
+J: Fuqarolar o‘rtasida ashyoning qiymati bazaviy hisoblash miqdorining o‘n baravaridan oshsa, shuningdek ishtirokchilardan biri yuridik shaxs bo‘lsa.
+888-modda.
+
+S: Ashyo favqulodda holatda topshirilgan bo‘lsa, shartnomaning yozma shakliga rioya qilish talab etiladimi?
+J: Yo‘q, favqulodda holatlarda (yong‘in, suv toshqini va h.k.) og‘zaki shaklga ruxsat beriladi va guvohlar ko‘rsatmasidan foydalanish mumkin.
+888-modda.
+
+S: Omonat saqlash shartnomasi omonat saqlovchi tomonidan qanday shaklda tasdiqlanishi mumkin?
+J: Nomgiri (jeston), kvitansiya, chek yoki boshqa maxsus belgi (znatok) berish yo‘li bilan.
+888-modda.
+
+S: Oddiy yozma shaklga rioya qilmaslik taraflarni qanday huquqdan mahrum qiladimi?
+J: Nizo chiqqan taqdirda bitimning tuzilganligini guvohlar ko‘rsatmasi bilan isbotlash huquqidan mahrum qiladi.
+888-modda.
+
+S: Omonat saqlash muddati qanday aniqlanadi?
+J: Shartnomada belgilangan muayyan muddat bilan yoki yuk topshiruvchining birinchi talabigacha (muddatsiz).
+889-modda.
+
+S: Egasi yo‘q ashyolarni saqlashda omonat saqlovchi nima qilishi mumkin?
+J: Agar ashyoning muddati tugasa va yuk topshiruvchi uni olmasa, uni ogohlantirishdan keyin sotishga haqli.
+899-modda.
+
+S: Omonat saqlovchi ashyoning to‘liq saqlanishini ta’minlash uchun nima qilishi shart?
+J: Shartnomada belgilangan barcha choralarni, shartnomada bo'lmasa, ashyoning xususiyatiga mos keladigan barcha zaruriy choralarini ko‘rishi shart.
+891-modda.
+
+S: Omonat saqlovchi ashyoni qaytarishda nima topshirishi shart?
+J: Ashyoning o‘zini va saqlash davomida undan olingan barcha hosila va daromadlarni topshirishi shart.
+902-modda.
+
+S: Omonat saqlovchi ashyoni yuk topshiruvchining roziligisiz foydalanishi mumkinmi?
+J: Yo‘q, ashyoning saqlanishini ta'minlash uchun zarur bo‘lgan hollar bundan istisno.
+892-modda.
+
+S: Xavfli xossalarga ega ashyolarni saqlashda omonat saqlovchi nima qilishi mumkin?
+J: Agar u ashyoning xavfliligi haqida ogohlantirilmagan bo‘lsa, ashyoni zararsizlantirish yoki yuk topshiruvchining zararini qoplamasdan yo‘q qilib tashlash huquqiga ega.
+894-modda.
+
+S: Xavfli xossalarga ega ashyolarni saqlashda omonat saqlovchi nima qilishi mumkin?
+J: (Savol takrorlangan, yuqoridagi kabi) Xavfli ashyolarni zararsizlantirishi va yuk topshiruvchi hisobidan yo‘q qilishi mumkin.
+894-modda.
+
+S: Omonat saqlovchi ashyoni uchinchi shaxsga topshirsa, kim javobgar bo‘ladi?
+J: Yuk topshiruvchi oldida ashyoning saqlanishi uchun baribir omonat saqlovchining o‘zi javobgar bo‘lib qoladi.
+895-modda.
+
+S: Omonat saqlovchiga saqlash haqini qachon to‘lash shart?
+J: Saqlash muddati tugagach, agar shartnomada davriy to‘lovlar nazarda tutilmagan bo‘lsa.
+896-modda.
+
+S: Agar saqlash omonat saqlovchi javobgar bo‘lmagan vaziyat tufayli muddatidan oldin to‘xtatilsa, haq qanday bo‘ladi?
+J: Omonat saqlovchi haqning haqiqatda saqlangan vaqtga mutanosib qismini olish huquqiga ega bo‘ladi.
+896-modda.
+
+S: Agar yuk topshiruvchi ashyoni muddat tugagach qaytarib olmasa, omonat saqlovchi qanday haq oladi?
+J: Ashyo amalda saqlangan keyingi butun davr uchun shartnomaviy tarif bo‘yicha haq olishda davom etadi.
+896-modda.
+
+S: Alohida xarajatlar omonat saqlovchiga qoplanadimi?
+J: Ha, shartnomada nazarda tutilgan yoki favqulodda zarur bo‘lgan xarajatlar yuk topshiruvchi tomonidan qoplanishi shart.
+897-modda.
+
+S: Yuk topshiruvchi ashyoni qaytarib olishdan bosh tortsa, omonat saqlovchi nima qilishi mumkin?
+J: Ashyoning qiymati kam bo‘lsa, mustaqil sotishi, qiymati yuqori bo‘lsa, sud orqali sotib, tushgan summadan o‘z haqini olib qolishi mumkin.
+899-modda.
+
+S: Ashyo yo‘qolgan yoki shikastlangan taqdirda javobgarlik kimga yuklanadi?
+J: Omonat saqlovchi zimmasiga yuklanadi (agar u zarar o‘zining aybisiz sodir bo‘lganini isbotlay olmasa).
+900-modda.
+
+S: Ashyo tekin saqlangan bo‘lsa, yo‘qolgan yoki shikastlangan hollarda zarar qanday qoplanadi?
+J: Ashyo yo‘qolgan bo‘lsa — uning qiymati miqdorida, shikastlangan bo‘lsa — qiymati kamaygan summa miqdorida.
+901-modda.
+
+S: Yuk topshiruvchi ashyoni muddatidan oldin qaytarishni talab qilsa, omonat saqlovchi nima qilishi shart?
+J: Ashyoni birinchi talab bo‘yicha darhol qaytarishi shart (hatto muddatli saqlash bo‘lsa ham).
+902-modda.
+
+S: Lombardda omonat saqlashga qabul qilinadigan ashyo qaysi turdagi bo‘lishi mumkin?
+J: Faqat shaxsiy iste'mol uchun mo‘ljallangan ko‘char ashyolar (buyumlar).
+904-modda.
+
+S: Lombardda ashyo bahosi qanday aniqlanadi?
+J: Taraflarning o‘zaro kelishuvi bilan, lekin ashyoning bozor bahosidan past bo‘lmagan miqdorda.
+904-modda.
+
+S: Yuk topshiruvchi lombarddan ashyo olmasa, lombardning saqlash muddati qancha?
+J: Kamida ikki oy (imtiyozli muddat) davomida ashyoni saqlashga majbur.
+905-modda.
+
+S: Bankda boyliklarni saqlash shartnomasi qanday rasmiylashtiriladi?
+J: Bank tomonidan maxsus kvitansiya, nominal seyf hujjati yoki ruxsatnoma berish yo‘li bilan.
+907-modda.
+
+S: Bankda saqlash shartnomasida po‘lat sandiqdan foydalanishda kimga kalit beriladi?
+J: Mijozga beriladi (seyfning bir kaliti mijozda, ikkinchisi bankda saqlanadi yoki elektron kod beriladi).
+908-modda.
+
+S: Transport tashkilotlarining yukxonalarida ashyo qaysi shart asosida qabul qilinadi?
+J: Yo‘lovchining chiptasi taqdim etilganda, ashyoning yo‘lovchiga tegishli ekanligidan qat'i nazar qabul qilinadi.
+909-modda.
+
+S: Yukxonaga topshirilgan ashyo yo‘qolgan taqdirda zarar summasi qachon to‘lanadi?
+J: Ashyoning qiymati e'lon qilingan bo‘lsa — e'lon qilingan qiymat miqdorida, e'lon qilinmagan bo‘lsa — haqiqiy qiymati miqdorida.
+910-modda.
+
+S: Kiyimxonada saqlash uchun ashyo bepul bo‘ladimi?
+J: Agar kiyimxonaga ashyo topshirish uchun alohida haq belgilangan bo‘lmasa, u tekin saqlash hisoblanadi.
+911-modda.
+
+S: Mehmonxona qaysi holatda ashyo uchun javobgar bo‘ladi?
+J: Mehmonxonaga olib kirilgan har qanday ashyoning (seyfga qo‘yilmagan bo‘lsa ham) yo‘qolishi yoki shikastlanishi uchun hamma vaqt javobgar bo‘ladi.
+912-modda.
+
+S: Sekvestr (nizoli ashyo) kimga topshiriladi?
+J: Ikki yoki undan ortiq shaxslar o‘rtasida nizoli bo‘lgan ashyo taraflarning kelishuvi yoki sud qarori bilan uchinchi shaxsga (saqlovchiga) topshiriladi.
+914-modda.
+
+S: Tovar ombori nima?
+J: Tovarlarni saqlash va saqlash bilan bog‘liq xizmatlar ko‘rsatishni tadbirkorlik faoliyati sifatida amalga oshiruvchi ixtisoslashgan tashkilot.
+915-modda.
+
+S: Omborda omonat saqlash shartnomasi qanday shaklda tuziladi?
+J: Yozma shaklda, ombor hujjatlaridan birini berish orqali.
+916-modda.
+
+S: Tovar egasi qaytarib olayotganda nimani tekshirishi mumkin?
+J: Tovarning miqdori, sifati va butunligini ombordan chiqarish paytida tekshirishga haqli.
+918-modda.
+
+S: Tovar ombori qachon omonat shartnomasini bajarishdan bosh tortishi mumkin?
+J: Agar tovar o‘z xususiyatlari tufayli boshqa tovarlarga yoki omborning o‘ziga zarar yetkazishi aniqlansa va bu haqda oldindan ogohlantirilmagan bo‘lsa.
+917-modda.
+
+S: Ikki qismli ombor guvohnomasida qaysi ma’lumotlar bo‘lishi kerak?
+J: Ombor nomi, tovar egasi, tovarning nomi, miqdori, saqlash muddati va har ikki qismda (ombor va garov qismida) bir xil rekvizitlar.
+921-modda.
+
+S: Garov guvohnomasining saqlovchisi qaysi huquqqa ega?
+J: Tovar ustidan garov huquqiga va tovar qiymati hisobidan o‘z kredit talablarini qanoatlantirish huquqiga ega.
+923-modda.
+
+S: Oddiy ombor guvohnomasi kimga beriladi?
+J: Taqdim etuvchiga (hujjatni amalda saqlab turgan har qanday shaxsga) beriladi.
+920-modda.
+
+S: Tovar ombori tovarni egasiga qaytarishda qanday tartibda harakat qilishi kerak?
+J: Ombor guvohnomasining har ikki qismi (yoki barcha qismlari) taqdim etilgandan keyin tovarni berishi shart.
+925-modda.
+
+S: Ombor guvohnomasi garovga qo‘yilganda nima qilinadi?
+J: Uning tarkibiy qismi bo‘lgan garov guvohnomasi (warrant) ajratib olinadi va kreditorga topshiriladi.
+923-modda.
+
+S: Garov guvohnomasiga ega bo‘lmagan shaxs tovarni olishi mumkinmi?
+J: Faqat garov guvohnomasi bo‘yicha qarz summasini omborga to‘liq to‘laganidan keyin olishi mumkin.
+925-modda.
+
+S: Sug‘urta shartnomasi qaysi asosda tuziladi?
+J: Sug‘urta qildiruvchining yozma arizasi va taraflarning o‘zaro kelishuvi asosida.
+915-modda (Sug'urta bobining boshlanishi, 926-modda).
+
+S: Shaxsiy sug‘urta shartnomasisi qaysi turdagi shartnoma hisoblanadi?
+J: Ommaviy shartnoma hisoblanadi.
+928-modda.
+
+S: Majburiy sug‘urta qachon amalga oshiriladi?
+J: Qonun bilan zimmasiga sug‘urta qilish majburiyati yuklangan shaxslar tomonidan, qonunda belgilangan shartlar asosida.
+929-modda.
+
+S: Mulkiy sug‘urta shartnomasida sug‘urta mukofoti deganda nima tushuniladi?
+J: Sug‘urta qildiruvchi shartnomada belgilangan tartibda sug‘urtalovchiga to‘lashi shart bo‘lgan pul badali (haqi).
+943-modda.
+
+S: Quyidagilardan qaysi biri mulkiy sug‘urta obyekti bo‘la olmaydi?
+J: G‘ayriqonuniy manfaatlar, shuningdek qimor o‘yinlarida ishtirok etish bilan bog‘liq bo‘lgan talablar va zarar xavfi.
+931-modda.
+
+S: Qaysi holatda mol-mulkni sug‘urta qilish shartnomasi haqiqiy emas?
+J: Agar sug‘urta shartnomasi tuzilgan paytda sug‘urta qildiruvchining sug‘urtalangan mulkka nisbatan qonuniy manfaati (huquqi) bo‘lmasa.
+930-modda.
+
+S: Qimor va garov o‘yinlaridagi zarar sug‘urtalanadimi?
+J: Yo‘q, qonunan taqiqlangan va sug‘urta ob'ekti bo‘la olmaydi.
+931-modda.
+
+S: Zarar yetkazganlik uchun javobgarlikni sug‘urta qilish shartnomasi kim foydasiga tuziladi?
+J: Zarar yetkazilishi natijasida benefitsiar bo‘lgan uchinchi shaxslar (jabrlanuvchilar) foydasiga tuzilgan hisoblanadi.
+933-modda.
+
+S: Tadbirkorlik xavfini sug‘urta qilish shartnomasi kim foydasiga tuziladi?
+J: Faqat sug‘urta qildiruvchining (tadbirkorning o‘zining) foydasiga tuziladi.
+934-modda.
+
+S: Shaxsiy sug‘urta shartnomasida naf oluvchi ko‘rsatilmagan bo‘lsa, kim foydasiga hisoblanadi?
+J: Sug‘urta qilingan shaxsning o‘zi yoki uning vafotidan keyin qonuniy merosxo‘rlari foydasiga.
+935-modda.
+
+S: Majburiy sug‘urta qaysi hollarda qonun bilan belgilanishi mumkin?
+J: Boshqa shaxslarning hayoti, sog‘lig‘i yoki mol-mulkiga, shuningdek qonunda ko'rsatilgan fuqarolik javobgarligi xavfi yuzaga kelganda.
+929-modda.
+
+S: Sug‘urta shartnomasi qaysi shaklda tuzilishi shart?
+J: Yozma shaklda (sug‘urta polisi yoki guvohnomasi berish orqali).
+937-modda.
+
+S: Bosh polis nima uchun ishlatiladi?
+J: Bir turdagi mol-mulkning turli partiyalarini uzoq vaqt davomida muntazam ravishda sug‘urta qilib turish uchun ishlatiladi.
+938-modda.
+
+S: Sug‘urta shartnomasining muhim shartlari qaysilar?
+J: Sug‘urta ob'ekti, sug‘urta xavfi, sug‘urta puli (summasi), sug‘urta mukofoti va shartnomaning amal qilish muddati.
+939-modda.
+
+S: Sug‘urta shartnomasi tuzilayotganda sug‘urta qildiruvchi nima qilishi shart?
+J: O‘ziga ma'lum bo‘lgan va sug‘urta xavfini baholash uchun muhim ahamiyatga ega bo‘lgan barcha holatlar to‘g‘risida sug‘urtalovchiga to‘g‘ri ma'lumot berishi shart.
+940-modda.
+
+S: Sug‘urta qoidalarida ko‘rsatilgan shartlar qanday bo‘ladi?
+J: Agar ular shartnomaning matnida to‘g‘ridan-to‘g‘ri bayon etilgan bo‘lsa yoki unga ilova qilinib, shartnomada unga havola bo‘lsa, majburiy kuchga ega bo‘ladi.
+941-modda.
+
+S: Sug‘urta qiymati nima bilan belgilanadi?
+J: Mol-mulkning shartnoma tuzilgan paytdagi haqiqiy (bozor) qiymati bilan belgilanadi.
+942-modda.
+
+S: To‘liq bo‘lmagan mulkiy sug‘urta holatida sug‘urtalovchi qanday to‘laydi?
+J: Zararni sug‘urta summasining sug‘urta qiymatiga bo‘lgan nisbatiga mutanosib ravishda (proporsional) qoplaydi.
+945-modda.
+
+S: Qo‘shaloq sug‘urta holatida sug‘urta qildiruvchi qanday huquqqa ega?
+J: Har bir sug‘urtalovchidan shartnomada belgilangan doirada tovon olish huquqiga ega, lekin umumiy olingan tovon haqiqiy zarardan oshib ketmasligi shart.
+946-modda.
+
+S: Agar sug‘urta puli sug‘urta qiymatidan ortiq bo‘lsa, shartnoma qanday hisoblanadi?
+J: Sug‘urta qiymatidan ortiqcha bo‘lgan qismi o‘z-o‘zidan haqiqiy emas (haqiqiy emas) hisoblanadi.
+947-modda.
+
+S: Sug‘urta sirini buzganlikda kim javobgar bo‘ladi?
+J: Sug‘urta siri hisoblangan ma'lumotlarni oshkor qilgan sug‘urtalovchi javobgar bo‘ladi va zararni qoplaydi.
+949-modda.
+
+S: Sug‘urtalovchi sug‘urta xavfini baholash huquqiga ega, agar…
+J: Sug‘urta shartnomasi tuzilishidan oldin mulkni ko‘zdan kechirish yoki ekspertiza tayinlash zarur bo‘lsa.
+944-modda.
+
+S: Sug‘urta qildiruvchi yolg‘on ma’lumot bergan bo‘lsa, sug‘urtalovchi nima qilishi mumkin?
+J: Shartnomani haqiqiy emas deb topishni va shartnoma buzilganligi sababli zararni qoplashni talab qilishi mumkin.
+940-modda.
+
+S: Sug‘urta qildiruvchining sug‘urta mukofotini to‘lamasligi holatida sug‘urtalovchi nima qilishi mumkin?
+J: Agar shartnomada boshqacha tartib bo‘lmasa, sug‘urta shartnomasining kuchga kirishini rad etishi yoki shartnomani bekor qilishni talab qilishi mumkin.
+943-modda.
+
+S: Sug‘urta qildiruvchi majburiy sug‘urta qilinishini kimdan talab qilishi mumkin?
+J: Qonun bo‘yicha uni majburiy sug‘urta qilishi shart bo‘lgan sub'ektlardan yoki manfaatdor shaxslardan.
+950-modda.
+
+S: Shaxsiy sug‘urta shartnomasida sug‘urta pulini olish huquqi kimga tegishli?
+J: Sug‘urta qilingan shaxsning o‘ziga yoki shartnomada belgilangan naf oluvchiga (benefitsiarga).
+935-modda.
+
+S: Mol-mulkni sug‘urta qilish majburiyati qonundan kelib chiqmaydigan holatda…
+J: Sug‘urta faqat ixtiyoriy ravishda taraflarning o‘zaro kelishuvi bilan amalga oshiriladi.
+927-modda.
+
+S: Shartnomani buzganlik uchun javobgarlik xavfi kim sug‘urtalash mumkin?
+J: Faqat qonunda to‘g‘ridan-to‘g‘ri nazarda tutilgan hollarda sug‘urta qildiruvchining o‘zi sug‘urtalashi mumkin.
+933-modda.
+
+S: Shaxsiy sug‘urta shartnomasida sug‘urta pulini to‘lash vaqti qanday bo‘lishi mumkin?
+J: Sug‘urta hodisasi (kasallik, yoshga yetish, vafot etish) sodir bo‘lganda bir yo‘la yoki davriy to‘lovlar shaklida.
+935-modda.
+
+S: Majburiy sug‘urta obyekti, xavflari va minimal sug‘urta puli kim tomonidan belgilanadi?
+J: Faqat tegishli qonun hujjatlari (qonunlar) tomonidan belgilanadi.
+929-modda.
+
+S: Sug‘urta qoidalarida belgilangan shartlarni o‘zgartirish mumkinmi?
+J: Ha, taraflarning o‘zaro yozma kelishuvi bilan shartnoma tuzish paytida o‘zgartirilishi yoki istisno qilinishi mumkin.
+941-modda.
+
+S: Sug‘urta mukofoti qanday miqdorda belgilanadi?
+J: Sug‘urtalovchi tomonidan qo‘llaniladigan sug‘urta tariflari va shartnoma shartlaridan kelib chiqib, taraflarning kelishuvi bilan.
+943-modda.
+
+S: Birgalikda sug‘urta qilishda, agar har bir sug‘urtalovchining ulushi ko‘rsatilmagan bo‘lsa, eles ular qanday javobgar bo‘ladi?
+J: Ular sug‘urta qildiruvchi oldida solidar (birgalikda) javobgar bo‘ladilar.
+946-modda.
+
+S: Sug‘urta shartnomasi tuzilayotganda sug‘urta qildiruvchi qaysi holatni oshkor qilmasligi mumkin emas?
+J: Sug‘urta hodisasi yuz berishi ehtimoliga va uning kutilayotgan zarar miqdoriga ta'sir qiladigan o‘ziga ma'lum bo‘lgan barcha muhim xavflarni.
+940-modda.
+
+S: Agar sug‘urta shartnomasi sug‘urta qildiruvchi aldash oqibatida sug‘urta pulini oshirib yuborsa, sug‘urtalovchi nima qilishi mumkin?
+J: Shartnomani haqiqiy emas deb topishni va aldash natijasida etkazilgan zararni qoplashni talab qilishga haqli.
+947-modda.
+
+S: Mol-mulk yoki tadbirkorlik xavfi turli sug‘urta shartnomalari orqali sug‘urtalansa, sug‘urta puli qanday bo‘ladi?
+J: Barcha shartnomalardagi sug‘urta pullarining umumiy summasi mol-mulkning haqiqiy sug‘urta qiymatidan oshib ketmasligi shart.
+948-modda.
+
+S: Sug‘urta qildiruvchi majburiy sug‘urta qilinishini amalga oshirmasa, kim javobgar bo‘ladi?
+J: Sug‘urta majburiyatini bajarmagan shaxs qonun bo‘yicha manfaatdor shaxs ko‘rgan barcha zararlar uchun shaxsan javobgar bo‘ladi.
+951-modda.
+
+S: Agar mol-mulk bir necha sug‘urtalovchida qo‘shaloq sug‘urta qilingan bo‘lsa, sug‘urta puli qanday taqsimlanadi?
+J: Sug‘urta tovoni har bir sug‘urtalovchi tomonidan shartnomaviy majburiyat ulushiga mutanosib ravishda to‘lanadi.
+948-modda.
+
+S: Sug‘urta shartnomasining haqiqiy emasligi qaysi holatda yuz beradi?
+J: Sug‘urta predmeti qonunga xilof bo‘lganda, sug‘urta manfaati bo‘lmaganda yoki shartnoma shakli mutloq buzilganda.
+952-modda.
+
+S: Agar sug‘urta shartnomasi sug‘urta qoidalariga zid bo‘lsa, shartnomaning tegishli qismi qanday hisoblanadi?
+J: Qonunga va sug‘urta qildiruvchining huquqlarini himoya qiluvchi qoidalarga muvofiq talqin qilinadi (zid qism haqiqiy emas deb topilishi mumkin).
+941-modda.
+
+S: Oddiy shirkat shartnomasi bo‘yicha sheriklar kimlar hisoblanadi?
+J: Ikki yoki undan ortiq shaxslar (sheriklar) yuridik shaxs tashkil etmasdan, foyda olish yoki qonunga xilof bo‘lmagan boshqa maqsadga erishish uchun o‘z hissalarini birlashtirgan shaxslar.
+962-modda.
+
+S: Oddiy shirkat shartnomasi qaysi shaklda tuzilishi shart?
+J: Yozma shaklda.
+962-modda.
+
+S: Konsorsium shartnomasi bo‘yicha tashkil etilgan yuridik shaxslar…
+J: Konsorsium yuridik shaxs hisoblanmaydi, u birgalikdagi faoliyat shartnomasining (oddiy shirkatning) bir turi hisoblanadi.
+963-modda.
+
+S: Konsorsium shartnomasidagi sheriklar qaysi harakatlarni amalga oshirishlari taqiqlanadi?
+J: Shartnoma maqsadlariga zid bo‘lgan va konsorsiumning umumiy manfaatlariga zarar yetkazadigan alohida bitimlar tuzish taqiqlanadi.
+963-modda.
+
+S: Oddiy shirkatga sherik sifatida kimlar bo‘la oladi?
+J: Agar tadbirkorlik faoliyati bilan bog‘liq bo‘lsa — faqat tijorat tashkilotlari va yakka tartibdagi tadbirkorlar, boshqa maqsadlar bo‘lsa — har qanday fuqaro va yuridik shaxslar.
+962-modda.
+
+S: Sherikning oddiy shirkatga qo‘shadigan hissasi nima bilan belgilanadi?
+J: Pul, boshqa mol-mulk, professional yoki boshqa bilmlar, ko‘nikmalar hamda ishchanlik obro‘si (bularning barchasi sherikning hissasi deb tan olinadi).
+964-modda.
+
+S: Sheriklar umumiy ishga qo‘shgan hissalarini qiymat bo‘yicha teng qo‘shishi…
+J: Agar shartnomadan yoki amaldagi holatdan boshqacha tartib kelib chiqmasa, sheriklarning hissalari qiymati jihatidan teng deb taxmin qilinadi.
+964-modda.
+
+S: Sheriklarning umumiy mol-mulki hisobga olinish mezoni nima?
+J: Sheriklarning birgalikda yaratgan yoki sotib olgan mol-mulki, shuningdek birlashtirilgan mulklari ularning umumiy ulushli mulki hisoblanadi.
+965-modda.
+
+S: Umumiy ishlarni yuritish bo‘yicha barcha sheriklarning roziligi qachon talab qilinadi?
+J: Agar shartnomada ishlarni ko‘pchilik ovoz bilan hal qilish nazarda tutilmagan bo‘lsa, har qanday qaror qabul qilishda barcha sheriklarning roziligi talab qilinadi.
+966-modda.
+
+S: Oddiy shirkatdagi sherikning uchinchi shaxslar bilan bitim tuzish vakolati…
+J: Unga ishonchnoma berilgan bo‘lsa yoki shartnomada har bir sherik shirkat nomidan ish yuritishga haqli deb belgilangan bo‘lsa tasdiqlanadi.
+966-modda.
+
+S: Har bir sherikning ishlarni yuritishga doir hujjatlarni ko‘rib chiqish huquqi…
+J: Mutloq huquq bo‘lib, shartnoma bilan ham cheklanishi yoki bekor qilinishi mumkin emas.
+967-modda.
+
+S: Sheriklarning birgalikdagi faoliyatiga bog‘liq xarajatlar va zararlarni qoplash tartibi…
+J: Shartnomada belgilangan ulushlarga mutanosib ravishda, kelishuv bo‘lmasa — umumiy mulkdagi ulushga qarab qoplanadi.
+968-modda.
+
+S: Oddiy shirkat ishtirokchisi umumiy majburiyatlar bo‘yicha qachon solidar javobgar bo‘ladi?
+J: Agar oddiy shirkat shartnomasi tadbirkorlik faoliyatini amalga oshirish bilan bog‘liq bo‘lsa, sheriklar barcha umumiy majburiyatlar bo‘yicha solidar javobgar bo‘ladilar.
+969-modda.
+
+S: Foyda taqsimoti qanday amalga oshiriladi?
+J: Har bir sherikning umumiy ishdagi hissasiga mutanosib ravishda (foyda olish huquqidan mahrum qilish haqidagi kelishuv haqiqiy emas).
+970-modda.
+
+S: Oddiy shirkat shartnomasi bekor bo‘lishining bir sababi…
+J: Sheriklardan birining vafot etishi, layoqatsiz deb topilishi, bankrot bo‘lishi yoki shartnomadan voz kechishi (agar shartnomada qolgan sheriklar bilan davom ettirish nazarda tutilmagan bo‘lsa).
+971-modda.
+
+S: Oddiy shirkatning muddatsiz shartnomasidan voz kechish…
+J: Shartnoma muddati tugashidan kamida uch oy oldin shirkatdan chiqish haqida ariza berish orqali amalga oshiriladi.
+972-modda.
+
+S: Yashirin shirkat bo‘yicha sheriklarning javobgarligi qanday?
+J: Uchinchi shaxslar bilan tuzilgan bitimlar bo‘yicha faqat shu bitimni tuzgan sherik shaxsan javobgar bo‘ladi, sheriklararo munosabatda esa umumiy qoidalar qo'llaniladi.
+975-modda.
+
+S: Oddiy shirkat bekor bo‘lganda umumiy mulk qanday taqsimlanadi?
+J: Umumiy majburiyatlar bajarilganidan keyin qolgan mol-mulk sheriklar o‘rtasida ularning hissalariga mutanosib ravishda taqsimlanadi.
+974-modda.
+
+S: Sherikning ulushi uning kreditori talabiga ko‘ra ajratilishi mumkinmi?
+J: Ha, sherikning shaxsiy mol-mulki qarzni qoplashga yetmagan taqdirda, kreditor uning shirkatdagi ulushini ajratishni talab qilishi mumkin.
+973-modda.
+
+S: Oddiy shirkatda ishtirok etishni to‘xtatgan yoki shartnomani bekor qilingan sherik uchinchi shaxslarga nisbatan javobgar bo‘ladimi?
+J: Ha, u ishtirok etishni to‘xtatgan paytgacha vujudga kelgan umumiy majburiyatlar bo‘yicha uchinchi shaxslar oldida javobgar bo‘lib qoladi.
+972-modda.
+
+S: Ommaviy tanlovning g‘olibi kim hisoblanadi?
+J: Tanlov shartlariga muvofiq eng yaxshi natijaga erishgan va tanlov hay'ati tomonidan g‘olib deb topilgan shaxs.
+976-modda.
+
+S: Ommaviy tanlov qanday shaklda bo‘lishi mumkin?
+J: Ochiq (barcha xohlovchilar uchun) yoki yopiq (faqat muayyan taklif qilingan shaxslar uchun).
+976-modda.
+
+S: Ochiq tanlovda ishtirok etish taklifi qayerda berilishi lozim?
+J: Matbuotda yoki boshqa ommaviy axborot vositalarida keng ommaga e'lon qilinishi lozim.
+976-modda.
+
+S: Tanlovni e’lon qilgan shaxs ishlarni dastlabki saralashdan o‘tkazishi mumkinmi?
+J: Ha, agar tanlov shartlarida dastlabki malaka saralashi (kvartifikatsiya) nazarda tutilgan bo‘lsa, o‘tkazishi mumkin.
+976-modda.
+
+S: Ommaviy tanlov e’lonida nimalar ko‘rsatilishi lozim?
+J: Topshiriqning mazmuni, ishni taqdim etish muddati, baholash mezonlari, mukofot miqdori va natijalarni e'lon qilish tartibi.
+977-modda.
+
+S: Tanlov shartlarini o‘zgartirish yoki bekor qilish qachon mumkin?
+J: Faqat belgilangan muddatning birinchi yarmida (agar e'londa boshqacha tartib bo‘lmasa).
+978-modda.
+
+S: Tanlov shartlarini o‘zgartirish yoki bekor qilish haqida xabar berish qanday usulda bo‘lishi kerak?
+J: Tanlov qanday usulda e'lon qilingan bo‘lsa, aynan o‘sha ommaviy axborot vositasi orqali e'lon qilinishi shart.
+978-modda.
+
+S: Tanlov shartlari o‘zgartirilgan yoki bekor qilingan taqdirda xarajatlarni kim qoplaydi?
+J: Tanlovni e'lon qilgan shaxs shartlar o‘zgarishiga qadar ishni bajargan ishtirokchilarning xarajatlarini qoplashi shart.
+978-modda.
+
+S: Tanlov e’lon qilgan shaxs xarajatlarni to‘lashdan qachon ozod bo‘ladi?
+J: Agar u ishtirokchining bajargan ishi tanlov shartlariga mutloq mos kelmasligini yoki bekor qilingunga qadar hech qanday ish bajarilmaganini isbotlasa.
+978-modda.
+
+S: Mukofotni to‘lash qarori qachon chiqarilishi lozim?
+J: Tanlov e'lonida belgilangan muddatda va tartibda chiqarilishi va ishtirokchilarga bildirilishi shart.
+979-modda.
+
+S: Bir nechta shaxs birgalikda ish bajarib, natijaga erishsa, mukofot qanday taqsimlanadi?
+J: Ular o‘rtasidagi kelishuvga ko‘ra, kelishuv bo‘lmasa — mukofot ular o‘rtasida teng taqsimlanadi.
+979-modda.
+
+S: Ommaviy tanlovda g‘olib chiqqan asarlardan foydalanish huquqi kimga tegishli?
+J: Agar tanlov shartlarida boshqacha tartib bo‘lmasa, mutlaq huquq muallifda (g‘olibda) qoladi, tanlov e'lon qiluvchi esa undan foydalanishda imtiyozli huquqqa ega bo‘ladi.
+980-modda.
+
+S: Mukofotga sazovor bo‘lmagan ishlar nima qilinadi?
+J: Agar tanlov shartlarida boshqacha tartib nazarda tutilmagan bo‘lsa, tanlov e'lon qilgan shaxs ularni ishtirokchilarga qaytarishi shart.
+981-modda.
+
+S: Oshkora va’da asosida mukofot to‘lash majburiyati qachon yuzaga keladi?
+J: Muayyan qonuniy harakatni bajargan har qanday shaxsga pul mukofoti yoki boshqa rag‘bat to‘lash haqida ommaviy e'lon berilgan paytdan boshlab.
+982-modda.
+
+S: Oshkora va’da qilgan shaxs mukofotni kimga to‘lashga majbur?
+J: E'londa ko‘rsatilgan harakatni amalda birinchi bo‘lib bajargan shaxsga.
+982-modda.
+
+S: Agar e’lon qilingan harakatni bir necha shaxs bajargan bo‘lsa, kim mukofotni oladi?
+J: Harakatni hammadan birinchi bo‘lib bajargan va buni isbotlagan shaxs oladi.
+983-modda.
+
+S: Agar bir vaqtning o‘zida ikki yoki undan ortiq shaxs harakatni bajargan bo‘lsa va kelishuv bo‘lmasa, mukofot qanday taqsimlanadi?
+J: Mukofot ular o‘rtasida teng ulushlarda taqsimlanadi.
+983-modda.
+
+S: Mukofotni oshkora va’da qilgan shaxs va’da berishdan voz kechishi mumkinmi?
+J: Ha, agar e'lonning o‘zida voz kechish taqiqlanmagan bo‘lsa va harakatni bajarish muddati ko‘rsatilmagan bo‘lsa, xuddi shu shaklda voz kechishi mumkin.
+984-modda.
+
+S: Oshkora va’da bekor qilinsa, xarajatlarni qoplash majburiyati saqlanadimi?
+J: Ha, va'da bekor qilinishiga qadar harakatni bajarish bilan bog‘liq xarajatlar qilgan shaxslarning xarajatlari qoplanishi shart.
+984-modda.
+
+S: Qoplash miqdori oshkora va’da bekor qilinsa qancha bo‘lishi mumkin?
+J: E'londa va'da qilingan mukofot summasining miqdoridan oshib ketmasligi shart.
+984-modda.
+
+S: Qaysi holatda fuqarolarning qimor va tavakkalchilikka asoslangan oʻyinlarda ishtiroki sudda himoya qilinmaydi?
+J: Agar o‘yinlar davlat yoki davlat tomonidan ruxsat berilgan (litsenziyalangan) sub'ektlar tomonidan tashkil etilmagan bo‘lsa, sudda himoya qilinmaydi.
+985-modda.
+
+S: Lotereya yoki Internet tavakkalchilik oʻyinlarida shartnoma qachon tuzilgan deb hisoblanadi?
+J: Ishtirokchiga lotereya chiptasi, kvitansiya yoki o‘yinda ishtirok etishni tasdiqlovchi boshqa elektron hujjat (belgi) berilgan paytdan boshlab.
+986-modda.
+
+S: Oʻyin tashkilotchisi oʻyinni belgilangan muddatda oʻtkazishni rad etsa, ishtirokchi qanday daʼvo qilishi mumkin?
+J: O‘yinda ishtirok etish chiptasi qiymatini qaytarishni hamda rad etish natijasida ko‘rilgan real zararni qoplashni talab qilishi mumkin.
+986-modda.
+
+S: Zarar yetkazgan shaxs oʻz aybi yoʻqligini isbotlasa, qanday javobgarlikdan ozod boʻladi?
+J: Zararni qoplash majburiyatidan ozod bo‘ladi (qonunda aybsiz javobgarlik nazarda tutilgan hollardan tashqari).
+985-modda (Majburiyatlar bo'limi boshlanishi, 985-modda).
+
+S: Zaruriy mudofaa holatida yetkazilgan zarar qachon toʻlanmaydi?
+J: Agar zarar zaruriy mudofaa chegarasidan oshib ketilmagan holda yetkazilgan bo‘lsa, to‘lanmaydi.
+987-modda.
+
+S: Muomalaga layoqatsiz fuqaro tomonidan yetkazilgan zarar uchun kim javobgar bo‘ladi?
+J: Uning vasiysi yoki unga qarab turishga majbur bo‘lgan ixtisoslashtirilgan muassasa javobgar bo‘ladi.
+991-modda.
+
+S: 14 yoshdan 18 yoshgacha boʻlgan voyaga yetmagan shaxs yetkazgan zarar qachon ota-onalar yoki vasiylar zimmasiga yuklanadi?
+J: Voyaga yetmaganning o‘zida zararni qoplash uchun mol-mulk yoki daromad yetarli bo‘lmaganda va ota-onalar o‘zlarining aybsizligini isbotlay olmaganida.
+994-modda.
+
+S: Oshiqcha xavf manbai bilan bogʻliq javobgarlik qachon yuzaga keladi?
+J: Faoliyati atrofdagilar uchun yuqori xavf bilan bog‘liq bo‘lgan yuridik shaxslar va fuqarolar (avtotransport egalari va h.k.) zarar yetkazganda, ularning aybidan qat'i nazar yuzaga keladi.
+999-modda.
+
+S: Birgalikda zarar yetkazgan shaxslar qanday javobgar hisoblanadi?
+J: Jabrlanuvchi oldida solidar (birgalikda) javobgar hisoblanadilar.
+1000-modda.
+
+S: Zarar yetkazgan shaxs boshqa shaxs o‘rnini qoplagan to‘lovni qayta talab qilish huquqiga ega bo‘lishi mumkinmi?
+J: Ha, zararni qoplagan shaxs haqiqiy zarar yetkazuvchiga nisbatan u to‘lagan summa miqdorida regress (qayta talab) huquqiga ega bo‘ladi.
+1001-modda.
+
+S: Uy hayvonlari tomonidan yetkazilgan zarar uchun kim javobgar?
+J: Hayvonning egasi yoki unga amalda egalik qilib turgan (boqayotgan) shaxs javobgar bo‘ladi.
+999-modda (Yoki umumiy asoslarda 985-modda).
+
+S: Jabrlanuvchi qoʻpol ehtiyotsizlik qilgan va zarar yetkazuvchi aybsiz boʻlsa, sud tovonni qanday belgilaydi?
+J: Tovon miqdori kamaytiriladi yoki jabrlanuvchining hayoti va sog‘lig‘iga zarar yetkazilgan hollardan tashqari zararni qoplash butunlay rad etiladi.
+1002-modda.
+
+S: 14 yoshgacha boʻlgan voyaga yetmagan bola tomonidan yetkazilgan zarar uchun javobgarlik qachon tugaydi?
+J: Bola 18 yoshga (voyaga) yetganda yoki u javobgarlik vujudga kelgunga qadar shaxsiy daromad manbaiga ega bo‘lganida ham ota-onaning javobgarligi tugamaydi, bu sub'ektiv majburiyatdir.
+993-modda.
+
+S: Tergovga qadar tekshiruv organlari tomonidan qonunga xilof yetkazilgan zarar kim tomonidan qoplanadi?
+J: Tergov, prokuratura va sud organlari xodimlarining aybidan qat'i nazar, davlat xazinasi mablag‘lari hisobidan to‘liq qoplanadi.
+990-modda.
+
+S: Oʻz harakatlarining ahamiyatini tushuna olmaydigan shaxs tomonidan yetkazilgan zarar qachon javobgarlikka tortiladi?
+J: Agar u o‘zini bunday holatga (masalan, alkogol yoki narkotik moddalar iste'mol qilish orqali) o‘zi qasddan tushirgan bo‘lsa, shaxsan javobgar bo‘ladi.
+996-modda.
+
+S: Zarar yetkazgan shaxsning mulkiy holati tovon miqdorini belgilashda qanday hisobga olinadi?
+J: Sud zarar yetkazgan fuqaroning mulkiy ahvolini hisobga olib, tovon miqdorini kamaytirishi mumkin (zarar qasddan yetkazilgan hollar bundan istisno).
+1002-modda.
+
+S: 14–18 yoshgacha voyaga yetmagan shaxs yetkazgan zarar uchun homiy muassasa javobgarligi qachon tugaydi?
+J: Zarar yetkazuvchi voyaga yetganida yoki unda zararni qoplash uchun etarli mol-mulk (daromad) paydo bo‘lganida tugaydi.
+994-modda.
+
+S: Terrorchilik operatsiyasi natijasida yetkazilgan zararni qoplagan davlat regress huquqidan qachon foydalanadi?
+J: Terrorchilik harakatini sodir etgan va bunda aybdor deb topilgan bevosita shaxslarga (terrorchilarga) nisbatan foydalanadi.
+1001-modda (Umumiy regress qoidasi).
+
+S: Zarar yetkazgan shaxs majburiyatini sugʻurta orqali qoplagan boʻlsa va sugʻurta puli yetarli boʻlmasa, qaysi qoidaga asosan qoplanadi?
+J: Sug‘urta puli va haqiqiy zarar o‘rtasidagi farqni zarar yetkazgan shaxsning o‘zi o‘z mablag‘lari hisobidan qoplashi shart.
+1003-modda.
+
+S: Oshiqcha xavf manbai bilan birgalikda zarar yetkazilgan holatda javobgarlik qanday taqsimlanadi?
+J: Xavf manbalari egalari uchinchi shaxslarga yetkazilgan zarar uchun solidar, o‘zaro yetkazilgan zarar bo‘yicha esa ayb darajasiga qarab javobgar bo‘ladilar.
+999-modda.
+
+S: Shartnoma majburiyatlarini bajarishda fuqaroning sogʻligʻiga yetkazilgan zarar qanday qoplanadi?
+J: Ushbu bobda (Deylik majburiyatlar bo'limi) nazarda tutilgan qoidalarga muvofiq, agar qonun yoki shartnomada yuqoriroq javobgarlik miqdori belgilanmagan bo‘lsa.
+1004-modda.
+
+S: Fuqaroga mayiblik yoki sogʻligʻiga zarar yetkazilgan taqdirda, qaysi xarajatlar qoplanadi?
+J: Yo‘qotilgan ish haqi (daromadi), shuningdek davolanish, qo‘shimcha ovqatlanish, dori-darmon sotib olish, protez qo‘ydirish, begona shaxs parvarishi bilan bog‘liq qo‘shimcha xarajatlar.
+1005-modda.
+
+S: Yo‘qotilgan ish haqini hisoblashda quyidagilardan qaysi biri kiritilmaydi?
+J: Bir yo‘la beriladigan to‘lovlar (masalan, foydalanilmagan mehnat ta'tili uchun kompensatsiya) va moddiy yordam turlari kiritilmaydi.
+1007-modda.
+
+S: Jabrlanuvchining o‘rtacha oylik ish haqi qanday hisoblanadi?
+J: Zarar yetkazilishidan oldingi o‘n ikki oy davomidagi umumiy ish haqini o‘n ikkiga bo‘lish yo‘li bilan hisoblanadi.
+1007-modda.
+
+S: Voyaga yetmagan shaxs (14 yoshdan kichik) mayib bo‘lsa, javobgar shaxs nima qilishi kerak?
+J: Sog‘lig‘iga zarar yetkazilishi bilan bog‘liq bo‘lgan barcha qo‘shimcha xarajatlarni qoplashi shart.
+1011-modda.
+
+S: 14–18 yoshgacha bo‘lgan voyaga yetmagan shaxsga zarar yetkazilganda qoplash miqdori qanday aniqlanadi?
+J: Yo‘qotilgan ish haqidan tashqari, u mehnat faoliyatini boshlaganidan keyin qonunda belgilangan bazaviy hisoblash miqdoridan past bo‘lmagan miqdorda aniqlanadi.
+1011-modda.
+
+S: Boquvchisi vafot etgan shaxsning qaramog‘ida turgan voyaga yetmaganlar qachongacha zarar undirish huquqiga ega?
+J: O‘n sakkiz yoshga to‘lgunga qadar (agar o‘qiyotgan bo‘lsa — yigirma uch yoshgacha).
+1010-modda.
+
+S: Boquvchisi vafot etgan taqdirda zarar miqdori qanday hisoblanadi?
+J: Vafot etgan shaxsning o‘rtacha ish haqidan uning o‘ziga va qaramog‘ida bo‘lgan, lekin zarar undirish huquqiga ega bo‘lmagan shaxslarga to‘g‘ri keladigan ulushlarni chegirib tashlash yo‘li bilan.
+1010-modda.
+
+S: Fuqaro vafotidan so‘ng zararni qoplash majburiyati kimga o‘tadi?
+J: Uning merosini qabul qilib olgan merosxo‘rlariga (meros mulki qiymati doirasida) o‘tadi.
+1012-modda.
+
+S: Jabrlanuvchi mehnat qobiliyatini qisman yo‘qotgan taqdirda zarar miqdori qanday o‘zgaradi?
+J: Mehnat qobiliyatini yo‘qotganlik darajasiga (foiziga) mutanosib ravishda oylik to‘lovlar miqdori o‘zgaradi (kamayadi yoki ko‘payadi).
+1013-modda.
+
+S: Zararni qoplashda qonunchilikdagi bazaviy hisoblash miqdori oshirilsa, nima sodir bo‘ladi?
+J: Sog‘liqqa yetkazilgan zararni qoplash uchun tayinlangan oylik to‘lovlar miqdori ham mutanosib ravishda indeksatsiya qilinadi (oshiriladi).
+1014-modda.
+
+S: Jabrlanuvchiga to‘lanadigan zararni qoplash to‘lovlari qanday amalga oshiriladi?
+J: Har oyda amalga oshiriladigan davriy to‘lovlar shaklida to‘lanadi.
+1015-modda.
+
+S: Yuridik shaxs tugatilsa, hayot va sog‘liqqa yetkazilgan zarar qanday qoplanadi?
+J: Tugatiqyotgan yuridik shaxs to‘lashi lozim bo‘lgan to‘lovlar summasi kapitallashtiriladi va sug‘urta tashkilotiga yoki davlatga o‘tkaziladi.
+1016-modda.
+
+S: Tugatilayotgan yuridik shaxsning mol-mulki yetarli bo‘lmasa, zararni kim to‘laydi?
+J: Agar qonunda yuridik shaxs muassislari (aksiyadorlari)ning subsidiar javobgarligi nazarda tutilgan bo‘lsa, ular to‘laydi, aks holda majburiyat kapitallashtirish davlat jamg‘armalari tomonidan qoplanadi.
+1016-modda.
+
+S: Dafn etish xarajatlari qanday qoplanadi?
+J: Dafn etish xarajatlarini qilgan shaxsga ushbu xarajatlar zarar yetkazgan shaxs tomonidan to‘liq qoplanadi (boquvchisini yo‘qotganlik nafaqasi hisobga olinmaydi).
+1017-modda.
+
+S: Jabrlanuvchining sog‘lig‘iga yetkazilgan zarar yildan-yilga yomonlashsa, nima qilinadi?
+J: Jabrlanuvchi tovon miqdorini mos ravishda ko‘paytirishni talab qilib qayta sudga murojaat qilishga haqli.
+1018-modda.
+
+S: Agar jabrlanuvchining ish haqi zararni undirish vaqtida oshsa, qoplash miqdori nima qilinadi?
+J: U ilgari ishlagan mutaxassislik bo‘yicha ish haqi oshgan bo‘lsa, zararni qoplash to‘lovlari ham mos ravishda ko‘paytiriladi.
+1018-modda.
+
+S: Voyaga yetmagan shaxsning mehnat faoliyati boshlanganidan keyin sog‘lig‘iga zarar uchun to‘lanayotgan haq qanday belgilanadi?
+J: U egallagan mutaxassislik (malaka) bo‘yicha xodimning ish haqi miqdoridan kam bo‘lmagan summaning yo‘qotilgan mehnat qobiliyati foiziga qarab belgilanadi.
+1011-modda.
+
+S: 1007-modda bo‘yicha yo‘qotilgan ish haqiga qaysi daromadlar kiritiladi?
+J: Mehnat shartnomasi va fuqarolik-huquqiy shartnomalar bo‘yicha olingan barcha turdagi ish haqi, mukofotlar va mualliflik gonorarlari kiritiladi.
+1007-modda.
+
+S: Boquvchisi vafot etgan shaxsning 18 yoshdan oshgan o‘quvchilari zarar undirish huquqiga qachongacha ega?
+J: Ta'lim tashkilotlarida kunduzgi shaklda o‘qishni tamomlaguncha, lekin ko‘pi bilan yigirma uch yoshga to‘lgunga qadar.
+1010-modda.
+
+S: Ma’naviy zarar qachon qoplanadi?
+J: Fuqaroga uning shaxsiy nomulkiy huquqlariga yoki unga tegishli bo‘lgan boshqa nomoddiy ne'matlarga qarshi harakatlar bilan jismoniy yoki ruhiy azob berilganda.
+1021-modda.
+
+S: Quyidagi holatlardan qaysi biri ma’naviy zarar aybsiz qoplanishini belgilaydi?
+J: Zarar oshiqcha xavf manbai tomonidan yetkazilganda, qonunga xilof hukm etilganda yoki qonunga xilof ravishda ma'lumotlar tarqatilib shaxs sha'ni bulg‘anganda.
+1021-modda.
+
+S: Ma’naviy zarar qoplash shakli qanday?
+J: Faqat pul shaklida qoplanadi.
+1022-modda.
+
+S: Ma’naviy zarar miqdorini aniqlashda nima e’tiborga olinadi?
+J: Jabrlanuvchining ruhiy azoblari darajasi, zarar yetkazuvchining ayb darajasi (aybsiz qoplanadigan holatlardan tashqari), shuningdek odillik va oqilonalik mezonlari.
+1022-modda.
+
+S: Jabrlanuvchining or-nomus va ishchanlik obro‘e’tiboriga zarar yetkazadigan ma’lumot tarqatish qaysi modda asosida qoplanadi?
+J: 1021 va 1022-moddalar (shuningdek 100-modda) asosida.
+1021-modda.
+
+S: Asossiz orttirilgan boylikni qaytarish majburiyati kimga yuklanadi?
+J: Qonunda yoki bitimda belgilangan asoslarsiz boshqa shaxsning hisobidan mol-mulkni qo‘lga kiritgan yoki tejab qolgan shaxs (qo‘lga kirituvchi) zimmasiga.
+1023-modda.
+
+S: Asossiz orttirilgan boylik qaytarilishi kerak bo‘lgan holatlar qaysi biri bilan bog‘liq emas?
+J: Qonuniy shartnoma asosida yoki uchinchi shaxsga xayriya maqsadida topshirilgan, qaytarilmasligi qonunda to‘g‘ridan-to‘g‘ri belgilangan holatlar bilan bog‘liq emas.
+1024-modda.
+
+S: Asossiz orttirilgan boylikni asl holida qaytarish qachon talab qilinadi?
+J: Har qanday holatda, agar asossiz orttirilgan mol-mulk amalda mavjud bo‘lsa va uni natura shaklida qaytarish imkoni bo‘lsa.
+1025-modda.
+
+S: Asossiz orttirilgan boylikning qiymatini to‘lash qachon talab qilinadi?
+J: Mol-mulkni asl holatida qaytarish imkoni bo‘lmaganda (yo‘qolgan, iste'mol qilingan hollar).
+1026-modda.
+
+S: Asossiz orttirilgan boylikdan olinmagan daromadlarni qaytarish majburiyati kimga yuklanadi?
+J: Boylikni asossiz qo‘lga kiritganligini bilgan yoki bilishi lozim bo‘lgan paytdan boshlab barcha daromadlarni qaytarish majburiyati qo‘lga kirituvchiga yuklanadi.
+1028-modda.
+
+S: Qo‘lga kirituvchi egallab olgan boylikning tasodifiy yomonlashuvi uchun javobgar bo‘ladimi?
+J: U boylikni asossiz olganini bilgan yoki bilishi lozim bo‘lgan paytdan boshlab sodir bo‘lgan har qanday tasodifiy yomonlashuv uchun javobgar bo‘ladi.
+1027-modda.
+
+S: Egallab olish niyatisiz vaqtincha foydalangan mol-mulkdan olingan tejalgan narsani qanday qaytarish kerak?
+J: Foydalanish natijasida tejalgan pul mablag‘lari miqdorida (ijara haqiga teng summa) qoplab berish orqali.
+1026-modda.
+
+S: Huquqni boshqa shaxsga asossiz berish oqibatida nima qilinadi?
+J: Dastlabki majburiyat huquqi (talabi) tiklanadi va uchinchi shaxsga o‘tgan hujjatlar qaytariladi.
+1029-modda.
+
+S: Asossiz orttirilgan pul mablag‘laridan foydalanganlik uchun qo‘lga kirituvchi nima qilishi lozim?
+J: U pulni asossiz olganini bilgan paytdan boshlab hisoblangan qonuniy foizlarni (327-modda) to‘lashi lozim.
+1028-modda.
+
+S: Qaytarilishi lozim bo‘lgan mol-mulkka qilingan xarajatlarni kim qoplash huquqiga ega?
+J: Mol-mulkni qaytarib berayotgan qo‘lga kirituvchi, u ushbu mulkni saqlash uchun qilgan zarur xarajatlarini qoplashni mulkdordan talab qilishga haqli.
+1030-modda.
+
+S: Qaytarib berilmaydigan asossiz orttirilgan boylikka qaysi bir misol kiradi?
+J: Muddati o‘tgan majburiyat bo‘yicha to‘langan pul, vijdonan olingan ish haqi, pensiya, alimentlar yoki xayriya maqsadida berilgan narsalar.
+1031-modda.
+
+S: Qaysi holatda asossiz orttirilgan pul summasi foiz bilan qaytariladi?
+J: Qo‘lga kirituvchi pul mablag‘larining asossizligini bilgan yoki bilishi lozim bo‘lgan kundan boshlab foiz qo'shiladi.
+1028-modda.
+
+S: Ma’naviy zarar to‘lanadigan miqdor sud tomonidan qanday aniqlanadi?
+J: Har bir muayyan holatning xususiyatiga qarab, odillik va oqilonalik mezonlariga tayangan holda eksklyuziv ravishda aniqlanadi.
+1022-modda.
+
+S: Ma’naviy zarar qoplanishi mulkiy zarar bilan bog‘liqmi?
+J: Yo‘q, ma'naviy zarar mulkiy zarardan qat'i nazar va mustaqil ravishda qoplanadi.
+1022-modda.
+
+S: Asossiz orttirilgan boylikni qaytarishning qo‘llanilishi qanday asosda amalga oshari?
+J: Majburiyatlarni buzish oqibatlari, vindikatsiya (mulkni qaytarish) va zarar yetkazishdan kelib chiqadigan munosabatlarga nisbatan ham qo‘shimcha ravishda qo‘llaniladi.
+1024-modda.
+
+S: Intellektual mulk obyektlariga quyidagilardan qaysi biri kiradi?
+J: Intellektual faoliyat natijalari (asarlar, ixtirolar va h.k.) hamda fuqarolik muomalasi ishtirokchilarining xususiy alomatlarini aks ettiruvchi vositalar (tovar belgilari, firma nomlari).
+1032-modda.
+
+Fuqarolik muomalasi ishtirokchilarining xususiy alomatlarini aks ettiruvchi vositalar qaysi modda asosida belgilangan?
+1032-modda asosida belgilangan.
+
+S: Intellektual mulk obyektlarini huquqiy muhofaza qilish qachon yuzaga keladi?
+J: Ular yaratilganligi faktining o‘zi tufayli yoki qonunda belgilangan tartibda davlat ro‘yxatidan o‘tkazilib, patent/guvohnoma berilgan taqdirda yuzaga keladi.
+1033-modda.
+
+S: Shaxsiy nomulkiy huquq kimga tegishli?
+J: Faqat intellektual mulk ob'ektini yaratgan bevosita ijodkorga (muallifga) tegishli bo‘ladi.
+1034-modda.
+
+S: Mualliflik huquqi boshqa shaxsga beriladimi?
+J: Muallifning shaxsiy nomulkiy huquqlari (mualliflik nomi, daxlsizlik huquqi) boshqa shaxsga mutloq berilmaydi va begonalashtirilmaydi.
+1034-modda.
+
+S: Agar natija bir nehcta shaxsning birgalikdagi ijodiy mehnati bilan yaratilgan bo‘lsa, uklar nima hisoblanadi?
+J: Hammualliflar hisoblanadi.
+1035-modda.
+
+S: Intellektual mulk obyektiga nisbatan mutlaq huquq nima?
+J: Mulkdorning (huquq egasining) ushbu ob'ektdan o‘z xohishiga ko‘ra har qanday qonuniy usulda foydalanish va uchinchi shaxslarning foydalanishini taqiqlash bo‘yicha mulkiy huquqidir.
+1036-modda.
+
+S: Mutlaq huquqlarni cheklash qachon yo‘l qo‘yiladi?
+J: Faqat qonunda to‘g‘ridan-to‘g‘ri nazarda tutilgan hollarda va muallifning qonuniy manfaatlariga asossiz zarar yetkazmaslik sharti bilan.
+1037-modda.
+
+S: Mutlaq huquqlar shartnoma orqali boshqa shaxsga qanday o‘tadi?
+J: Huquqni to‘liq begonalashtirish shartnomasi yoki foydalanish huquqini beruvchi litsenziya shartnomasi orqali o‘tadi.
+1038-modda.
+
+S: Litsenziya shartnomasida nima aniqlanishi lozim?
+J: Litsenziya turi, ob'ektdan foydalanish usullari, foydalanish hududi, muddati va haq to‘lash miqdori.
+1039-modda.
+
+S: Oddiy (nomutlaq) litsenziya nima?
+J: Litsenziar ob'ektdan o‘zi ham foydalanish huquqini va uchinchi shaxslarga ham litsenziya berish huquqini saqlab qoladigan litsenziya turi.
+1040-modda.
+
+S: Mutlaq litsenziya bilan nima nazarda tutilgan?
+J: Ob'ektdan foydalanish huquqi faqat litsenziatga o‘tadi, litsenziarning o‘zi ham, uchinchi shaxslar ham undan foydalana olmaydi.
+1040-modda.
+
+S: Sublitsenziya shartnomasi qachon tuziladi?
+J: Litsenziat litsenziarning (huquq egasining) yozma roziligini olgan taqdirda uchinchi shaxslar bilan tuzishi mumkin.
+1041-modda.
+
+Intellektual faoliyat natijalarini yaratish va ulardan foydalanish shartnomasi qaysi modda asosida tartibga solinadi?
+1042-modda (shuningdek mualliflik shartnomasi qoidalari) asosida.
+
+S: Muallif kelgusida yaratadigan intellektual faoliyat natijalarini cheklovchi shartnoma haqiqiymi?
+J: Yo‘q, muallifning kelgusida muayyan mavzularda asarlar yaratish huquqini mutloq cheklovchi shartlar o‘z-o‘zidan haqiqiydir.
+1042-modda.
+
+S: Mutlaq huquq va mulk huquqi orasidagi farq qanday?
+J: Asarning ashyoviy nusxasiga (masalan, kitobga) bo‘lgan mulk huquqi ushbu asarning o‘ziga bo‘lgan intellektual (mutlaq) huquqni anglatmaydi; ashyo sotilsa ham mutlaq huquq muallifda qoladi.
+1043-modda.
+
+S: Intellektual mulk obyektlariga nisbatan mutlaq huquqning amal qilish muddati qanday?
+J: Qonunda har bir ob'ekt uchun alohida muddat belgilanadi (masalan, mualliflik huquqi — muallif hayoti va vafotidan keyin 50 (yoki 70) yil, patentlar — 20 yil).
+1044-modda.
+
+S: Shaxsiy nomulkiy huquqlar muddati qanday?
+J: Muddatsiz (cheklanmagan vaqt davomida) va muddatsiz muhofaza qilinadi.
+1044-modda.
+
+S: Mutlaq huquqlarni himoya qilish usullariga quyidagilardan qaysi biri kiradi?
+J: Huquqni tan olish, huquq buzilishidan oldingi holatni tiklash, huquqni buzuvchi harakatlarni taqiqlash va zararni (yoki tovonni) undirish.
+1045-modda.
+
+S: Intellektual faoliyat natijalarini va xususiy alomatlarni aks ettiruvchi vositalarni yaratish shartnomasini buzganlikda qanday javobgarlik qo‘llaniladi?
+J: Zararni qoplash, neustayka to‘lash yoki qonun buzilishi ashyolarini musodara qilish kabi fuqarolik-huquqiy javobgarlik qo‘llaniladi.
+1045-modda.
+
+S: Mualliflik huquqi qaysi obyektlarga tatbiq etiladi?
+J: Ijodiy mehnat natijasi bo‘lgan, har qanday ob'ektiv shaklda (yozma, og‘zaki, tasviriy) ifodalangan fan, adabiyot va san'at asarlariga tatbiq etiladi.
+1046-modda.
+
+S: Quyidagilardan qaysi biri mualliflik huquqi obyektlari hisoblanmaydi?
+J: Rasmiy hujjatlar (qonunlar, qarorlar), davlat ramzlari, xalq og‘zaki ijodi asarlari, g‘oyalar, tamoyillar, kashfiyotlar va faktlar.
+1047-modda.
+
+S: Hosila asarga bo‘lgan mualliflik huquqi kimga tegishli?
+J: Asarni qayta ishlagan, tarjima qilgan yoki to‘plagan shaxsga (tarjimon, tuzuvchiga) tegishli bo‘ladi.
+1048-modda.
+
+S: Hammualliflikda yaratilgan asarga bo‘lgan mualliflik huquqi qachongacha amalga oshadi?
+J: Asar ajralmas bo‘lsa, birgalikda, ajralishi mumkin bo‘lsa, har bir muallif o‘z qismidan mustaqil foydalanishi mumkin.
+1049-modda.
+
+S: Mualliflik huquqi qachon yuzaga keladi?
+J: Asar yaratilgan va biron-bir ob'ektiv shaklda ifodalangan paytning o‘zidan boshlab (ro‘yxatdan o‘tkazish talab qilinmaydi).
+1051-modda.
+
+S: Muallifning shaxsiy nomulkiy huquqlariga quyidagilardan qaysi biri kiradi?
+J: Mualliflik huquqi, mualliflik nomi huquqi, asarning daxlsizligiga bo‘lgan huquq va asarni oshkor qilish huquqi.
+1052-modda.
+
+S: Mualliflik huquqining himoya belgisi quyidagi uch unsurdan iborat bo‘ladi, birini tanlang:
+J: Aylana ichidagi "C" harfi — © belgisi.
+1053-modda.
+
+S: Xizmat asaridan foydalanishning mutlaq huquqlari kimga tegishli?
+J: Agar shartnomada boshchach tartib bo‘lmasa, xizmat majburiyatini bajarish tartibida yaratilgan asardan foydalanish mutlaq huquqlari ish beruvchiga tegishli bo‘ladi.
+1056-modda.
+
+S: Mualliflik huquqi muddati qachon boshlanadi?
+J: Asar yaratilgan paytdan boshlanadi, mulkiy huquqlar muddati esa muallif vafot etgan yildan keyingi kalendar yilning birinchi yanvaridan hisoblanadi.
+1057-modda.
+
+S: Mualliflik shartnomasi bo‘yicha huquqlar boshqa shaxslarga qachon to‘liq yoki qisman o‘tkazilishi mumkin?
+J: Faqat asar yaratilganidan keyin, mualliflik shartnomasini imzolash yo‘li bilan o‘tkaziladi.
+1058-modda.
+
+S: Oshkor qilingan asarni shaxsiy maqsadlarda takrorlash qaysi holatlarda ruxsat etiladi?
+J: Muallifning roziligisiz va unga haq to‘lamagan holda, faqat daromad olishni ko‘zlamasdan shaxsiy (ro‘zg‘or) maqsadlarida foydalanish uchun.
+1059-modda.
+
+S: Asar ijtimoiy mulkka qachon aylanadi?
+J: Mualliflik mulkiy huquqlarining amal qilish muddati (muallif vafotidan keyin 50 yil) tugaganidan keyin.
+1060-modda.
+
+S: Mualliflik shartnomasida quyidagilardan qaysi ma’lumot bo‘lishi shart?
+J: Asardan foydalanish usullari, muddati, hududi, muallifga to‘lanadigan haq miqdori yoki uni hisoblash tartibi.
+1061-modda.
+
+S: Mualliflik huquqi qaysi shaxslar tomonidan amalga oshirilishi mumkin?
+J: Muallifning o‘zi, uning merosxo‘rlari yoki shartnoma bo‘yicha vakolat berilgan boshqa huquq egalari tomonidan.
+1062-modda.
+
+S: Muallif obro‘si himoya qilinadigan huquqlardan qaysi biri?
+J: Asarning daxlsizligi huquqi (shon-sharaf va obro'ga zarar yetkazadigan har qanday o'zgarishlarni taqiqlash huquqi).
+1052-modda.
+
+S: Mualliflik huquqi obyektlari qaysi shakllarda bo‘lishi mumkin?
+J: Yozma (qo‘lyozma), og‘zaki (nutq, ma'ruza), ovozli yoki videoozuv shaklida, tasviriy (rasm, haykal) va hajmli-fazoviy shakllarda.
+1046-modda.
+
+S: Mualliflik huquqini himoya qiluvchi belgi qaysi harfni o‘z ichiga oladi?
+J: Lotincha "C" (Copyright) harfini.
+1053-modda.
+
+S: Mualliflik huquqi bilan himoyalangan asardan foydalanganda, daromad maqsadida foydalanish talab qilinmaydigan holatlar mavjudmi?
+J: Ha, ilmiy, tanqidiy, axborot yoki ta'lim maqsadlarida ( iqtibos keltirish shaklida) muallif nomini ko‘rsatib bepul foydalanish holatlari mavjud.
+1059-modda.
+
+S: Mualliflik huquqi muddati muallifning vafotidan keyin qancha davom etadi?
+J: Ellik yil davom etadi (merosxo'rlari uchun).
+1057-modda.
+
+S: Mualliflik shartnomasida belgilangan shartlarga zid bo‘lgan qoidalar haqiqiymi?
+J: Muallifning qonuniy huquqlarini shartnomaviy ravishda cheklovchi har qanday zid qoidalar o‘z-o‘zidan haqiqiydir.
+1061-modda.
+
+S: Turdosh huquqlar obyektlariga nimalar kiradi?
+J: Ijrolar, fonogrammalar, efir yoki kabel orqali ko‘rsatuv beruvchi tashkilotlarning eshittirishlari (ko‘rsatuvlari).
+1064-modda.
+
+S: Turdosh huquqlar subyektlari qaysilar hisoblanadi?
+J: Ijrochilar, fonogramma tayyorlovchilar va efir/kabel ko‘rsatuv tashkilotlari.
+1065-modda.
+
+S: Turdosh huquqlar obyektini roʻyxatdan oʻtkazish shartmi?
+J: Yo‘q, yuzaga kelishi va amal qilishi uchun ro‘yxatdan o‘tkazish yoki boshqa rasmiyatchiliklarga rioya qilish talab qilinmaydi.
+1066-modda.
+
+S: Fonogrammaga turdosh huquqni bildiruvchi muhofaza belgisi qaysi unsurlardan iborat?
+J: Aylana ichidagi lotincha "P" harfi, birinchi chop etilgan yili va huquq egasining nomi.
+1066-modda.
+
+S: Ijrochining ijrodan foydalanishga bo‘lgan mutlaq huquqlari qaysilarni o‘z ichiga oladi?
+J: Ijroni efirga uzatish, yozib olish, yozuv nusxalarini tarqatish va ijaraga berish huquqlarini.
+1068-modda.
+
+S: Fonogrammani tayyorlovchining fonogrammadan foydalanish huquqlari qaysilarni o‘z ichiga oladi?
+J: Fonogrammani to‘g‘ridan-to‘g‘ri yoki bilvosita takrorlash, nusxalarini tarqatish, ijaraga berish va ommaga yetkazish huquqlarini.
+1069-modda.
+
+S: Efir yoki kabel orqali koʻrsatuv beruvchi tashkilotning mutlaq huquqlari qaysilar?
+J: Eshittirishni yozib olish, takrorlash, qayta translyatsiya qilish va ommaga ko‘rsatishni ruxsat etish huquqlari.
+1071-modda.
+
+S: Patentlangan ixtiro, foydali model yoki sanoat namunasidan boshqa shaxsning ruxsatisiz foydalanishi qaysi holatda mumkin?
+J: Faqat shaxsiy maqsadlarda daromadsiz foydalanilganda, favqulodda holatlarda yoki ekspertiza va ilmiy tadqiqot o‘tkazish uchun foydalanilganda.
+1082-modda.
+
+S: Patent egasining huquqlari qaysilarni o‘z ichiga oladi?
+J: Patentlangan ob'ektdan mutlaq foydalanish, boshqalarga foydalanishni taqiqlash va litsenziya orqali huquqni begonalashtirish huquqlarini.
+1081-modda.
+
+S: Ixtiro, foydali model yoki sanoat namunasining hammualliflari o‘rtasidagi munosabatlar qanday belgilanadi?
+J: Ular o‘rtasidagi yozma kelishuvga ko‘ra, kelishuv bo‘lmasa, har biri ob'ektdan mustaqil foydalanishi mumkin, lekin litsenziya berish birgalikda hal qilinadi.
+1077-modda.
+
+S: Xizmat ixtirosi bilan bog‘liq holatlarda muallif va ish beruvchi huquqlari qanday belgilanadi?
+J: Patent olish huquqi ish beruvchiga tegishli bo‘ladi (agar shartnomada boshqacha bo‘lmasa), muallif esa mualliflik maqomini va haq olish huquqini saqlab qoladi.
+1079-modda.
+
+S: Patent huquqini boshqa shaxsga o‘tkazish shartnomasining shakli qanday bo‘lishi kerak?
+J: Yozma shaklda tuzilishi va Patent idorasida (vazirlaikda) majburiy davlat ro‘yxatidan o‘tkazilishi shart.
+1084-modda.
+
+S: Litsenziya shartnomasi qanday shaklda tuziladi?
+J: Yozma shaklda tuziladi va davlat ro‘yxatidan o‘tkazilishi shart.
+1085-modda.
+
+S: Oshkor etilmagan axborotga noqonuniy foydalanish natijasida kim javobgar hisoblanadi?
+J: Axborotni qonuniy asoslarsiz olgan, tarqatgan yoki undan foydalangan har qanday shaxs zararni qoplash bo‘yicha javobgar bo‘ladi.
+1096-modda.
+
+S: Oshkor etilmagan axborotni qonuniy ravishda olgan shaxs buni qanday foydalansa bo‘ladi?
+J: Ushbu axborot sir saqlanishi sharti bilan shartnomada belgilangan maqsadlar doirasidagina foydalanishi mumkin.
+1097-modda.
+
+S: Turdosh huquqlar obyektidan foydalanish uchun shartnoma talab qilinadimi?
+J: Ha, qonunda belgilangan erkin foydalanish hollaridan tashqari barcha holatlarda huquq egasi bilan yozma shartnoma tuzish shart.
+1067-modda.
+
+S: Ijrochining ismiga bo‘lgan huquqi qaysi turlarga taalluqlidir?
+J: Shaxsiy nomulkiy huquqlar turiga taalluqlidir va mutloq begonalashtirilmaydi.
+1068-modda.
+
+S: Fonogrammani tayyorlovchi mutlaq huquqlari qaysilarni o‘z ichiga oladi?
+J: Fonogramma nusxalarini tarqatish, sotish, ijaraga berish va uni simlar yoki simsiz aloqa vositalari orqali ommaga yetkazish huquqlarini.
+1069-modda.
+
+S: Seleksiya yutug‘ining patent egasiga tegishli bo‘lmagan muallifi nima huquqqa ega?
+J: Mualliflik guvohnomasini olish va patent egasidan seleksiya yutug‘idan foydalanganlik uchun haq (gonorar) talab qilish huquqiga ega.
+1090-modda.
+
+S: Oshkor etilmagan axborotni litsenziya asosida berilgan shaxsning majburiyati nima?
+J: Axborotning maxfiyligini (sirini) saqlash va shartnoma shartlaridan tashqariga chiqmaslik majburiyatidir.
+1097-modda.
+
+S: Yuridik shaxs firma nomidan foydalanish huquqi qachon yuzaga keladi?
+J: Yuridik shaxs davlat ro‘yxatidan o‘tkazilib, uning firma nomi tegishli reyestrga kiritilgan paytdan boshlab.
+1099-modda.
+
+S: Quyidagi qaysi holatda yuridik shaxsning firma nomi ro‘yxatga olinmaydi?
+J: Agar u reyestrga oldindan kiritilgan boshqa firma nomi bilan bir xil bo‘lsa yoki adashtirib yuborish darajasida o‘xshash bo‘lsa.
+1100-modda.
+
+S: Yuridik shaxs firma nomidan litsenziya asosida foydalanishga ruxsat berishi mumkin, lekin shartnomada nima talab qilinadi?
+J: Litsenziat tomonidan chiqarilayotgan tovarlar/xizmatlar sifatini litsenziar tomonidan majburiy nazorat qilinishi sharti talab qilinadi.
+1101-modda.
+
+S: Tovar belgisi huquqiy jihatdan qachon muhofaza qilinadi?
+J: U Adliya vazirligi (Intellektual mulk departamenti) tomonidan davlat ro‘yxatidan o‘tkazilib, guvohnoma berilgan taqdirda.
+1103-modda.
+
+S: 503 (2). Tovar belgisidan qonunga xilof foydalanganlik natijasida nimalar talab qilinishi mumkin?
+J: G‘ayriqonuniy foydalanishni to‘xtatish, soxta tovarlarni yo‘q qilish va yetkazilgan zararni (yoki kompensatsiyani) qoplash talab qilinishi mumkin.
+1107-modda.
+
+S: Tovar belgisidan foydalanmaslik oqibatida nimalar bo‘lishi mumkin?
+J: Agar tovar belgisidan uzluksiz uch yil davomida uzrli sababsiz foydalanilmasa, har qanday manfaatdor shaxsning talabi bilan uning ro‘yxatdan o‘tkazilganligi bekor qilinishi mumkin.
+1106-modda.
+
+S: Tovar chiqarilgan joy nomi kim tomonidan ro‘yxatdan o‘tkaziladi?
+J: Ushbu joyda o‘ziga xos xususiyatlarga ega bo‘lgan tovar ishlab chiqarayotgan bir yoki bir nechta yuridik/jismoniy shaxslar arizasiga ko‘ra davlat tomonidan ro‘yxatdan o‘tkaziladi.
+1109-modda.
+
+S: Tovar chiqarilgan joy nomidan foydalanish huquqi boshqa shaxsga berilishi mumkinmi?
+J: Yo‘q, uning boshqa shaxslarga o‘tkazilishi (begonalashtirilishi) yoki litsenziya shartnomasi asosida berilishi taqiqlanadi.
+1111-modda.
+
+S: Tovar belgisining daxlsizligiga boʻlgan huquq kimga tegishli?
+J: Tovar belgisi egasiga (guvohnoma sohibiga) tegishli bo‘ladi.
+1104-modda.
+
+S: Tovar chiqarilgan joy nomini boshqa davlatda ham huquqiy jihatdan himoya qilish mumkinmi?
+J: Ha, xalqaro shartnomalar va konvensiyalar (masalan, Madrid tizimi) asosida boshqa davlatlarda ham himoya qilinishi mumkin.
+1110-modda.
+
+S: Tovar belgisini boshqa shaxsga berish yoki litsenziya berish shartnomasi qaysi shaklda tuzilishi lozim?
+J: Yozma shaklda tuzilishi va davlat ro‘yxatidan o‘tkazilishi lozim (aks holda haqiqiy hisoblanmaydi).
+1105-modda.
+
+S: Firma nomiga boʻlgan huquq qachon tugaydi?
+J: Yuridik shaxs tugatilganda yoki uning firma nomi o‘zgartirilganda tugaydi.
+1099-modda.
+
+S: Tovar belgisidan foydalanish nima hisoblanadi?
+J: Uning tovarlarda, qadoqlarda, reklama e'lonlarida, peshlavhalarda yoki internet tarmog‘ida bevosita qo‘llanilishi.
+1106-modda.
+
+S: Quyidagi qaysi harakatlar tovar belgisiga huquqni buzmaydi?
+J: Ushbu tovar belgisi ostida qonuniy muomalaga kiritilgan tovarlardan keyinchalik mustaqil foydalanish va ularni qayta sotish (huquqning tugashi prinsipi).
+1106-modda.
+
+S: Firma nomidan foydalanish vaqtida yuridik shaxs qaysi hujjatga rioya qilishi kerak?
+J: O‘zining ta'sis hujjatlariga (ustaviga) va firma nomini ro‘yxatga olish to‘g‘risidagi qonun hujjatlariga.
+1098-modda.
+
+S: Tovar chiqarilgan joy nomidan qonunga xilof foydalanganlik uchun kim talab qilishi mumkin?
+J: Ushbu joy nomidan foydalanish huquqiga ega bo‘lgan qonuniy ishlab chiqaruvchilar, iste'molchilar jamiyatlari yoki davlat organlari.
+1111-modda.
+
+S: Tovar belgisidan qonunga xilof foydalanganlik natijasida ishlab chiqarilgan tovarlar bilan nima qilish lozim?
+J: Tovar va qadoqlardagi g‘ayriqonuniy tovar belgisi belgilari yo‘q qilinishi, buning imkoni bo‘lmasa — tovarlarning o‘zi muomaladan chiqarilib, yo‘q qilinishi lozim (kontrafakt).
+1107-modda.
+
+S: Firma nomidan tovar belgisida foydalanish mumkinmi?
+J: Ha, agar yuridik shaxs o‘z firma nomini qonuniy ravishda tovar belgisi sifatida ham ro‘yxatdan o‘tkazsa, foydalanishi mumkin.
+1102-modda.
+
+S: Tovar belgisidan foydalanmaganlik oqibatida sud qaroriga binoan nimalar bekor qilinadi?
+J: Tovar belgisining berilgan guvohnomasi va uning davlat reyestridagi qaydi butunlay bekor qilinadi.
+1106-modda.
+
+S: Tovar chiqarilgan joy nomidan foydalanish huquqi litsenziya asosida berilishi mumkinmi?
+J: Yo‘q, mutloq taqiqlanadi.
+1111-modda.
+
+S: Agar meros qoldiruvchi vasiyatnoma tuzmagan bo‘lsa va barcha merosxo‘rlar bir vaqtning o‘zida vafot etsa, meros qanday tartibda ochiladi?
+J: Ular bir-biridan keyin meros olish huquqiga ega emaslar (komoriyentlar) va ularning har birining merosi mustaqil ravishda o‘zlarining vorislariga o‘tadi.
+1116-modda.
+
+S: Meros tarkibiga kirmaydigan huquqlar qaysilar?
+J: Meros qoldiruvchining shaxsi bilan uzviy bog‘liq bo‘lgan huquqlar (aliment olish huquqi, mayiblik uchun zarar qoplanishi huquqi, pensiyalar va shaxsiy nomulkiy huquqlar).
+1113-modda.
+
+S: Umumiy birgalikdagi mulk ishtirokchisi vasiyat qilish huquqiga ega bo‘lishi uchun qaysi shart bajarilishi kerak?
+J: Meros ochilganidan keyin uning umumiy mulkdagi ulushi qonuniy tartibda aniqlanishi (ajratilishi) shart.
+1114-modda.
+
+S: Meros ochilishi qachon hisoblanadi?
+J: Fuqaroning vafot etgan payti (kuni va soati) yoki sud tomonidan u vafot etgan deb e'lon qilingan qaror kuchga kirgan kun.
+1116-modda.
+
+S: Noloyiq merosxo‘r sifatida kimlar merosdan chetlatiladi?
+J: Meros qoldiruvchining yoki biron-bir vorisning hayotiga qasddan suiqasd qilgan, vasiyatnoma tuzilishiga g‘ayriqonuniy to‘sqinlik qilgan shaxslar hamda ota-onalik huquqidan mahrum qilingan validlar.
+1119-modda.
+
+S: Vasiyatnoma shaxsan tuzilishi kerak, vakil orqali tuzilishi mumkin emas. Bu qoidaning sababi nima?
+J: Vasiyatnoma shaxsning o‘limi holatiga nisbatan o‘z xohish-irodasini erkin ifodalovchi mutloq shaxsiy bir tomonlama bitim bo‘lganligi sababli.
+1120-modda.
+
+S: Qaysi holatda vasiyatnoma haqiqiy hisoblanmaydi?
+J: U qonunda belgilangan yozma va notarial shaklda tuzilmagan bo‘lsa, shuningdek shaxs iroda erkinligi buzilgan hollar isbotlansa.
+1130-modda.
+
+S: Vasiyat majburiyati yuzasidan huquq oluvchi kim bo‘lishi mumkin?
+J: Vasiyatnomada merosxo‘r zimmasiga muayyan majburiyat yuklangan holda naf ko‘rishi belgilangan har qanday uchinchi shaxs (legatariy).
+1131-modda.
+
+S: Meros qoldiruvchining mehnatga qobiliyatsiz boqimlari qancha muddat davomida uning qaramog‘ida bo‘lishi kerak, qonuniy voris bo‘lish uchun?
+J: Meros qoldiruvchining vafotiga qadar kamida bir yil davomida uning qaramog‘ida bo‘lgan bo‘lishi shart.
+1141-modda.
+
+S: Vasiyatnomaning bekor qilinishi qaysi yo‘l bilan amalga oshiriladi?
+J: Yangi vasiyatnoma tuzish (u oldingisini to‘liq yoki qisman bekor qiladi) yoki notariusga vasiyatnomani bekor qilish haqida ariza berish yo‘li bilan.
+1127-modda.
+
+S: Meros qoldiruvchi vasiyatnomada qaysi holatni nazarda tutishi mumkin?
+J: Merosxo‘rni tayinlash, undan meros huquqini mahrum qilish, vasiyat majburiyatini yuklash (legat) yoki merosxo‘r o‘rniga boshqa vorisni ko‘rsatish (substitutsiya).
+1121-modda.
+
+S: Vasiyatnomani ijro etuvchi merosni boshqarishda qanday cheklovga ega?
+J: U faqat vasiyatnomada belgilangan topshiriqlarni va merosni muhofaza qilish choralarini ko‘rishi mumkin, mulkni o‘z xohishicha begonalashtirishga haqli emas.
+1129-modda.
+
+S: Meros transmissiyasi qachon yuz beradi?
+J: Merosga tayinlangan voris meros ochilganidan keyin, lekin uni qabul qilib olishga ulgurmasdan vafot etgan taqdirda (huquq uning o‘z merosxo‘rlariga o‘tadi).
+1140-modda.
+
+S: Qonuniy birinchi navbatdagi vorislar kimlar hisoblanadi?
+J: Meros qoldiruvchining bolalari (shu jumladan farzandlikka olinganlar), eri (xotini) va ota-onasi.
+1135-modda.
+
+S: Qonun bo‘yicha merosdan majburiy ulush olish huquqi kimlarga taalluqli?
+J: Meros qoldiruvchining voyaga yetmagan yoki mehnatga qobiliyatsiz bolalariga, mehnatga qobiliyatsiz eri (xotini) va ota-onasiga.
+1142-modda.
+
+S: Vasiyatnoma shaxsiy mulkni boshqalarga qoldirish imkonini beradi, lekin qaysi holatda bu haqiqiy bo‘ladi?
+J: Vasiyatnoma qonunda belgilangan qat'iy shakl talablariga muvofiq rasmiylashtirilgan va majburiy ulush huquqdorlari huquqi buzilmagan taqdirda haqiqiy bo‘ladi.
+1120-modda.
+
+S: Umumiy birgalikdagi mulkni meros qilib olishda mol-mulkni natura holida taqsimlash imkoni bo‘lmasa, nimaga asoslanadi?
+J: Merosxo‘rlarning kelishuvi bo‘yicha pul kompensatsiyasi to‘lashga yoki sud tartibida mulkni sotib, pullarni ulushga qarab bo‘lishga asoslanadi.
+1152-modda.
+
+S: Qonun bo‘yicha beshinchi navbatdagi vorislar kimlar?
+J: Meros qoldiruvchining oltinchi darajadagi qarindoshlarigacha bo‘lgan boshqa uzoq qarindoshlari (amakivachchalar, amakining nevaralari va h.k.).
+1139-modda.
+
+S: Vasiyatnoma shartlariga kiritilgan qonunga xilof bo‘lgan shartlar qanday hisoblanadi?
+J: O‘z-o‘zidan haqiqiy emas (haqiqiy emas) hisoblanadi, lekin bu vasiyatnomaning qolgan qismlari haqiqiyligiga ta'sir qilmaydi.
+1130-modda.
+
+S: Vasiyatnomani notarius tasdiqlash talabidan istisno qaysi holatlarda qo‘llanadi?
+J: Meros qoldiruvchi kasalxonada (bosh shifokor), kemada (kema kapitani), ekspeditsiyada (boshliq) yoki harbiy qismda bo‘lganida mansabdor shaxslar tasdiqlagan holatlarda.
+1124-modda.
+
+S: Merosxo‘r qaysi vaqtdan e’tiboran meros olish huquqiga ega bo‘ladi?
+J: Meros ochilgan paytdan (meros qoldiruvchi vafot etgan kundan) e'tiboran.
+1145-modda.
+
+S: Merosxo‘r merosdan voz kechmoqchi bo‘lsa, qanday tartibda buni amalga oshiradi?
+J: Meros ochilgan kundan boshlab olti oy ichida meros ochilgan joydagi notariusga ariza berish orqali.
+1147-modda.
+
+S: Merosdan voz kechish keyinchalik bekor qilinishi mumkinmi?
+J: Yo‘q, merosdan voz kechish mutloq hisoblanadi va keyinchalik qaytarib olinishi yoki bekor qilinishi mumkin emas.
+1147-modda.
+
+S: Vasiyat majburiyatini qabul qiluvchi shaxs qaysi holatda vasiyat majburiyatidan voz kechishi mumkin?
+J: U o‘ziga tegishli huquqdan istalgan vaqtda merosxo‘r foydasiga voz kechish haqida ariza berish orqali voz kechishi mumkin (boshqa shaxs foydasiga voz kechish taqiqlanadi).
+1131-modda.
+
+S: Merosni taqsimlashda merosxo‘rlar kelishuvga erisha olmasa, qanday tartib qo‘llaniladi?
+J: Sud tartibida (sud orqali ulushlarni natura holida yoki kompensatsiya bilan taqsimlash) tartibi qo‘llaniladi.
+1152-modda.
+
+S: Hozir bo‘lmagan merosxo‘rlar merosni taqsimlashda qanday tartibga ega?
+J: Ularning ulushi majburiy ravishda ajratib qo‘yiladi va ular kelgunga qadar yoki vakili ishtirok etgunga qadar taqsimot yakunlanmaydi.
+1153-modda.
+
+S: Homila bo‘lgan, lekin hali tug‘ilmagan merosxo‘r bilan meros taqsimoti qanday amalga oshiriladi?
+J: Merosni taqsimlash faqat ushbu bola tirik tug‘ilganidan keyingina amalga oshirilishi mumkin (unga qadar taqsimot to‘xtatiladi).
+1154-modda.
+
+S: Meros tarkibidagi korxona merosxo‘rlar o‘rtasida qanday taqsimlanadi?
+J: Tadbirkor bo‘lgan yoki korxona faoliyatida bevosita ishtirok etgan merosxo‘r korxonani o‘z ulushi hisobidan olishda imtiyozga ega, qolganlarga kompensatsiya to‘lanadi.
+1155-modda.
+
+S: Merosxo‘r meros tarkibidagi mol-mulkni olishda imtiyozli huquqqa ega bo‘lishi mumkinmi?
+J: Ha, meros qoldiruvchi bilan birgalikda mulkdoshi bo‘lgan yoki mulkdan doimiy foydalanib kelgan merosxo‘r natura holida olishda imtiyozli huquqqa ega.
+1155-modda.
+
+S: Meros ulushlarining ortishi qaysi holatda yuz beradi?
+J: Merosxo‘rlardan biri merosdan voz kechganida, noloyiq deb chetlatilganida yoki merosni qabul qilmay vafot etganida uning ulushi qolgan vorislarga mutanosib o‘tishi orqali.
+1151-modda.
+
+S: Meros hisobidan qaysi xarajatlar imtiyozli ravishda qoplanadi?
+J: Meros qoldiruvchining oxirgi kasalligi va dafn etish xarajatlari, merosni muhofaza qilish va boshqarish xarajatlari imtiyozli (birinchi navbatda) qoplanadi.
+1156-modda.
+
+S: Egasiz mol-mulk kimga o‘tadi?
+J: Merosxo‘rlar bo‘lmagan taqdirda egasiz qolgan meros mulki sud qarori bilan davlat (shahar/tuman hokimiyati) mulkiga o‘tadi.
+1157-modda.
+
+S: Agar egasiz mol-mulkni qo‘riqlash xarajatlari uning qiymatidan oshsa, qanday qilinadi?
+J: Notarius yoki sud qarori bilan ushbu mol-mulk zudlik bilan sotiladi va tushgan pul mablag‘lari davlat hisobiga o‘tkaziladi.
+1157-modda.
+
+S: Chet el elementi bilan murakkablashgan munosabatlarda qo‘llanilishi lozim bo‘lgan huquq qanday belgilanadi?
+J: Xalqaro shartnomalar, ushbu Kodeks (Xalqaro xususiy huquq bo'limi) qoidalari yoki taraflarning o‘zaro kelishuvi (huquqni tanlashi) asosida belgilanadi.
+1158-modda.
+
+S: Jismoniy shaxsning shaxsiy qonuni qaysi holatga bog‘liq?
+J: U fuqarosi bo‘lgan mamlakat huquqiga (fuqaroligi bo‘lmagan shaxs uchun — u doimiy yashab turgan mamlakat huquqiga) bog‘liq.
+1162-modda.
+
+S: Jismoniy shaxs ikki yoki undan ortiq fuqarolikka ega bo‘lsa, uning shaxsiy qonuni qanday aniqlanadi?
+J: U eng uzviy bog‘langan (doimiy yashash joyi yoki pasportini olgan) mamlakat huquqi bo‘yicha aniqlanadi.
+1162-modda.
+
+S: Jismoniy shaxs bitimlar va zarar yetkazilish majburiyatlariga nisbatan qanday huquq bo‘yicha baholanadi?
+J: Bitim sodir etilgan yoki zarar yetkazilgan joy mamlakati huquqi bo‘yicha (agar shaxsiy qonunidan boshqacha tartib kelib chiqmasa).
+1163-modda.
+
+S: Vasiylik va homiylik qaysi huquq asosida belgilanadi?
+J: Vasiylik yoki homiylik belgilanishi shart bo‘lgan shaxsning shaxsiy qonuni (mamlakati huquqi) asosida belgilanadi.
+1166-modda.
+
+S: Yuridik shaxsning qonuni qaysi huquq?
+J: Yuridik shaxs qaysi mamlakatda ta'sis etilgan (davlat ro‘yxatidan o‘tgan) bo‘lsa, o‘sha mamlakatning huquqi hisoblanadi.
+1168-modda.
+
+S: Intellektual mulk huquqlarini himoya qilish qaysi huquqqa bog‘liq?
+J: Ushbu huquqlarni himoya qilish so‘ralayotgan (da'vo arizasi berilgan) mamlakatning huquqiga bog‘liq.
+1172-modda.
+
+S: Tashqi iqtisodiy bitimda kamida bir ishtirokchi O‘zbekiston fuqarosi bo‘lsa, bitim shakli qaysi huquqqa bo‘ysunadi?
+J: Tuzilgan joyidan qat'i nazar, majburiy ravishda O‘zbekiston Respublikasi huquqida belgilangan yozma shakl talabiga bo‘ysunadi.
+1173-modda.
+
+S: Ko‘chmas mulk xususidagi bitim shakli qaysi huquqqa bo‘ysunadi?
+J: Ko‘chmas mulk joylashgan mamlakatning huquqiga bo‘ysunadi (O'zbekistondagi mulk uchun — O'zbekiston huquqi).
+1173-modda.
+
+S: Ishonchnoma shakli va amal qilish muddati qaysi huquqqa bo‘ysunadi?
+J: Ishonchnoma berilgan (tuzilgan) mamlakatning huquqiga bo‘ysunadi.
+1173-modda.
+
+S: Da’vo muddati belgilanishi qaysi holatda O‘zbekiston huquqi bo‘yicha aniqlanadi?
+J: Agar tegishli munosabatga nisbatan asosiy huquq sifatida O‘zbekiston Respublikasi huquqi qo‘llanilishi belgilangan bo‘lsa.
+1174-modda.
+
+S: Ko‘chmas mulk va boshqa ashyoviy huquqlarni himoya qilishga nisbatan ariza beruvchining tanlovi qaysi huquqqa bo‘ysunadi?
+J: Mulk joylashgan joy huquqiga bo‘ysunadi, bu yerda ariza beruvchining ixtiyoriy tanloviga yo‘l qo‘yilmaydi (imperativ qoida).
+1175-modda.
+
+S: Bitim taraflarining shartnomaga nisbatan qo‘llanadigan huquqni tanlash imkoniyati qachon mavjud?
+J: Shartnoma tuzilayotganda yoki undan keyin istalgan vaqtda o‘zaro kelishuv bilan tanlash imkoniyati mavjud (avtonomiya voli).
+1184-modda.
+
+S: Agar oldi-sotdi shartnomasida taraflar qo‘llaniladigan huquqni tanlamagan bo‘lsa, qaysi mamlakat huquqi qo‘llanadi?
+J: Shartnoma mazmuni uchun hal qiluvchi ahamiyatga ega bo‘lgan majburiyatni bajaruvchi taraf — sotuvchining yashash joyi (yoki ta'sis etilgan joyi) mamlakati huquqi qo‘llanadi.
+1186-modda.
+
+S: Yo‘da bo‘lgan ko‘chmas mulkka nisbatan ashyoviy huquqlar qaysi huquqqa bo‘ysunadi?
+J: (Savolda ko'char mulk nazarda tutilgan) Yo‘lda bo‘lgan ko‘char mulkka nisbatan ashyoviy huquqlar, agar taraflar kelishuvida boshqacha bo‘lmasa, yuk jo‘natilgan mamlakat huquqiga bo‘ysunadi.
+1177-modda.
+
+S: Chet el ishtirokidagi yuridik shaxsni tuzish shartnomasida qo‘llaniladigan huquq qaysi?
+J: Ushbu yuridik shaxs ta'sis etilayotgan va ro‘yxatdan o‘tkazilayotgan mamlakatning huquqi qo‘llanadi.
+1187-modda.
+
+S: Asossiz boylik orttirish natijasida vujudga keladigan majburiyatlar qaysi huquqqa bo‘ysunadi?
+J: Asossiz boyish (qo‘lga kiritish) sodir bo‘lgan mamlakatning huquqiga bo‘ysunadi.
+1192-modda.
+
+S: Shaxsning vasiyatnoma tuzish layoqati qaysi huquqqa bo‘ysunadi?
+J: Vasiyatnoma tuzilgan paytda shaxs fuqarosi bo‘lgan mamlakatning huquqiga (shaxsiy qonuniga) bo‘ysunadi.
+1193-modda.
+
+S: Tovar, ish yoki xizmat natijasida iste’molchi zarar ko‘rgan taqdirda, qaysi huquq qo‘llaniladi?
+J: Iste'molchining tanloviga ko‘ra: uning yashash joyi, zarar yetkazuvchining joylashgan yeri yoki tovar sotib olingan mamlakat huquqi qo‘llaniladi.
+1191-modda.
+
+Bitimga nisbatan qo‘llaniladigan huquq shartnoma talqinini qamrab oladi. Bu qaysi modda bilan belgilangan?
+1188-modda bilan belgilangan.
+
+S: Mol-mulkga egalik qilish huquqi muddatining tugashi qaysi huquq bilan aniqlanadi?
+J: Egalik qilish huquqini vujudga keltiruvchi muddat tugagan paytda mol-mulk joylashgan mamlakat huquqi bilan aniqlanadi.
+1176-modda.
+
+S: Transport vositalari va davlat reyestrida qayd etilishi lozim bo‘lgan mol-mulkka nisbatan ashyoviy huquqlar qaysi huquqqa bo‘ysunadi?
+J: Ushbu transport vositasi yoki mulk davlat ro‘yxatidan o‘tkazilgan (ro‘yxatga olingan) mamlakatning huquqiga bo‘ysunadi.
+1178-modda.
+
+S: Vorislikka doir munosabatlar qaysi huquqqa bo‘ysunadi, agar meros qoldiruvchi fuqarosi huquqni tanlamagan bo‘lsa?
+J: Meros qoldiruvchi oxirgi marta doimiy yashab turgan mamlakat huquqiga bo‘ysunadi (ko‘chmas mulk uchun esa — mulk joylashgan mamlakat huquqi).
+1193-modda.
+
+S: Shartnoma taraflarning kelishuvi bo‘lmagan taqdirda kimoshdi savdosi bo‘yicha shartnoma qaysi huquqqa bo‘ysunadi?
+J: Kimoshdi savdosi (tender) o‘tkazilgan mamlakatning huquqiga bo‘ysunadi.
+1186-modda.
+
+S: Shartnomadan tashqari zarar yetkazilganligi majburiyatlari qaysi huquqqa bo‘ysunadi?
+J: Zarar yetkazilishiga asos bo‘lgan harakat sodir bo‘lgan yoki zarar oqibati yuzaga kelgan mamlakat huquqiga bo‘ysunadi.
+1190-modda.
+
+S: Agar shartnoma mazmuni uchun hal qiluvchi ijroni aniqlashning imkoni bo‘lmasa, qaysi huquq qo‘llanadi?
+J: Shartnoma qaysi mamlakat huquqi bilan uzviy bog‘liq bo‘lsa (sud ixtiyoriga ko'ra), o‘sha mamlakat huquqi qo‘llanadi.
+1186-modda.
+
+S: Oldi-sotdi shartnomasida taraflar huquqni tanlamagan va sotuvchi O‘zbekiston fuqarosi bo‘lsa, shartnoma qaysi huquqqa bo‘ysunadi?
+J: O‘zbekiston Respublikasi huquqiga bo‘ysunadi.
+1186-modda.
+
+S: Chet elda tuzilgan bitim O‘zbekiston Respublikasi huquqida belgilangan shaklga rioya qilgan, ammo u tuzilgan davlat huquqiga ko‘ra shakl talablari buzilgan. Ushbu bitimning haqiqiyligi qanday baholanadi?
+J: Bitim haqiqiy deb baholanadi (chunki O‘zbekiston huquqi talablariga rioya qilinishi bitimni haqiqiy saqlaydi).
+1173-modda.
+
+S: Tashqi iqtisodiy bitim Germaniyada tuzilgan. Tomonlardan biri O‘zbekiston Respublikasi fuqarosi, ikkinchisi Germaniya kompaniyasi. Bitim og‘zaki shaklda tuzilgan. Bitimning shakliga nisbatan qaysi qoida qo‘llanadi?
+J: Bitim haqiqiy emas deb topiladi, chunki O‘zbekiston fuqarosi ishtirokidagi tashqi iqtisodiy bitimlar qayerda tuzilishidan qat'i nazar, majburiy yozma shaklda bo‘lishi shart.
+1173-modda.
+
+S: O‘zbekistonda davlat reyestrida qayd etilgan ko‘chmas mulk Parijda tuzilgan bitim asosida sotildi. Bitim shakliga nisbatan qaysi huquq qo‘llanadi?
+J: O‘zbekiston Respublikasi huquqi qo‘llanadi (chunki ko‘chmas mulk O‘zbekistonda joylashgan).
+1173-modda.
+
+S: Ishonchnoma Italiyada berilgan, uning amal qilish muddati Italiya huquqiga zid, ammo O‘zbekiston huquqi talablariga mos. O‘zbekistonda bu ishonchnoma qanday baholanadi?
+J: Agar u tuzilgan joy (Italiya) huquqi talablariga zid bo‘lsa, u haqiqiy emas deb baholanadi, chunki ishonchnoma shakli berilgan joy huquqiga bo‘ysunadi.
+1173-modda.
+
+S: Da’vo moduli qaysi huquq asosida belgilanadi?
+J: Tegishli munosabatni tartibga solish uchun qo‘llaniladigan asosiy (moddiy) huquq asosida belgilanadi.
+1174-modda.
+
+S: Agar da’vo muddati tatbiq etilmaydigan talab bo‘lsa va taraflardan biri O‘zbekiston fuqarosi bo‘lsa, qaysi huquq qo‘llanadi?
+J: Asosiy huquq qaysi davlat qonunchiligi etib belgilangan bo‘lsa, o‘sha huquq qo‘llaniladi.
+1174-modda.
+
+S: Ko‘chmas mulkka bo‘lgan mulk huquqi qaysi huquq bo‘yicha aniqlanadi?
+J: Ko‘chmas mulk joylashgan (turgan) mamlakat huquqi bo‘yicha aniqlanadi.
+1175-modda.
+
+S: Mol-mulkning ko‘char yoki ko‘chmas ekanligi qaysi huquq bo‘yicha aniqlanadi?
+J: Mol-mulk ayni paytda joylashgan mamlakatning huquqi bo‘yicha aniqlanadi.
+1175-modda.
+
+S: Ashyoviy huquq vujudga kelishiga sabab bo‘lgan harakat Qozog‘istonda sodir bo‘lgan. Mol-mulk ham o‘sha paytda Qozog‘istonda bo‘lgan. Qaysi huquq qo‘llanadi?
+J: Qozog‘iston Respublikasi huquqi qo‘llaniladi.
+1176-modda.
+
+S: Bitim narsasi bo‘lgan mol-mulkka nisbatan ashyoviy huquqlar, agar tomonlar kelishuvi bo‘lmasa, qaysi huquq bo‘yicha aniqlanadi?
+J: Bitim tuzilgan paytda mol-mulk joylashgan mamlakat huquqi bo‘yicha aniqlanadi.
+1176-modda.
+
+S: Egalik qilish huquqini vujudga keltiruvchi muddat tugagan paytda mulk Germaniyada joylashgan. Qaysi huquq qo‘llanadi?
+J: Germaniya Federativ Respublikasi huquqi qo‘llaniladi.
+1176-modda.
+
+S: Transport vositasiga bo‘lgan mulk huquqi qaysi huquq bo‘yicha belgilanadi?
+J: Transport vositasi qaysi davlat reyestrida ro‘yxatga olingan bo‘lsa, o‘sha mamlakat huquqi bo‘yicha belgilanadi.
+1178-modda.
+
+S: Davlat reyestrida qayd etilishi shart bo‘lgan mol-mulkka nisbatan ashyoviy huquqlar qaysi huquq bilan belgilanadi?
+J: Mol-mulk ro‘yxatdan o‘tkazilgan davlat (reyestr yurituvchi mamlakat) huquqi bilan belgilanadi.
+1178-modda.
+
+S: Yo‘da bo‘lgan ko‘char mulkka nisbatan mulk huquqi, agar taraflar kelishuviga ko‘ra boshqacha belgilanmagan bo‘lsa, qaysi huquq bo‘yicha aniqlanadi?
+J: Ushbu yuk jo‘natilgan mamlakatning huquqi bo‘yicha aniqlanadi.
+1177-modda.
+
+S: Ashyoviy huquqlarni himoya qilishda talabgor qaysi huquqni tanlashi mumkin?
+J: Mulk joylashgan joy huquqini yoki agar gap sudlashuv haqida ketayotgan bo‘lsa, sud joylashgan mamlakat huquqini (ko'char ashyolar uchun) tanlashi mumkin.
+1179-modda.
+
+S: Ko‘chmas mulkka nisbatan ashyoviy huquqlarni himoya qilishda qaysi huquq majburiy qo‘llanadi?
+J: Faqat va mutloq ko‘chmas mulk joylashgan mamlakat huquqi majburiy qo‘llaniladi.
+1179-modda.
+
+S: O‘zbekiston davlat reyestrida qayd etilgan mol-mulkka nisbatan huquqlarni himoya qilishda qaysi huquq qo‘llanadi?
+J: O‘zbekiston Respublikasi huquqi qo‘llaniladi.
+1179-modda.
+
+S: Shartnoma bo‘yicha qo‘llaniladigan huquqni tanlash kimga tegishli?
+J: Shartnoma taraflarining (tomonlarning) o‘zlariga tegishli.
+1184-modda.
+
+S: Shartnoma taraflari qo‘llaniladigan huquqni qachon tanlashi mumkin?
+J: Shartnoma tuzilayotgan paytda ham, shartnoma tuzilganidan keyin istalgan vaqtda ham tanlashlari mumkin.
+1184-modda.
+
+S: Shartnomaga nisbatan qo‘llaniladigan huquqni o‘zgartirish masalasida qaysi fikr to‘g‘ri?
+J: Taraflar shartnoma tuzilgandan keyin ham qo‘llaniladigan huquqni o‘zgartirishga haqli va u uchinchi shaxslarning huquqlariga zarar yetkazmagan holda shartnoma boshidan buyon amalda bo‘lgan deb hisoblanadi.
+1184-modda.

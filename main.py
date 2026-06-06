@@ -8,6 +8,8 @@ from aiogram.types import Message, CallbackQuery
 from dotenv import load_dotenv
 from aiogram.client.default import DefaultBotProperties
 from aiohttp import web 
+from aiogram.types import FSInputFile
+import datetime
 
 # Ma'lumotlar bazasi klassini import qilish
 from database import Database
@@ -109,7 +111,7 @@ async def start_cmd(message: Message, state: FSMContext):
     db.add_user(message.from_user.id, message.from_user.full_name, message.from_user.username)
     
     await message.answer(
-        f"Salom, {html.bold(message.from_user.full_name)}!\nSavol-javob botiga xush kelibsiz.",
+        f"Salom, {html.bold(message.from_user.full_name)}!\nSavol-javob botiga xush kelibsiz.\n Kerakli fanni tanlang, aniq va tekshirilgan javoblarni oling. \n\n {html.bold("G'oya muallifi va producer")} @Saidazim_Ibroximov",
         reply_markup=kb.main_menu_keyboard(is_admin)
     )
 
@@ -157,12 +159,31 @@ async def admin_panel(message: Message, state: FSMContext):
     await state.clear()
     await message.answer("Admin boshqaruv paneli:", reply_markup=kb.admin_keyboard())
 
-@dp.callback_query(F.data == "admin_stats")
-async def admin_stats(call: CallbackQuery):
+@dp.callback_query(F.data == "export_stats")
+async def export_stats_to_txt(call: CallbackQuery):
     if call.from_user.id != ADMIN_ID: return
-    count = db.get_users_count()
-    await call.message.answer(f"📊 Botdagi jami foydalanuvchilar soni: {count} ta")
+    
+    users = db.get_all_users_info()
+    total, active, blocked = db.get_stats_summary()
+    
+    # Fayl nomini va tarkibini tayyorlash
+    file_name = "bot_statistika.txt"
+    with open(file_name, "w", encoding="utf-8") as f:
+        f.write(f"📊 BOT STATISTIKASI - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
+        f.write("------------------------------------\n")
+        f.write(f"Jami foydalanuvchilar: {total}\n")
+        f.write(f"Faol foydalanuvchilar: {active}\n")
+        f.write(f"Tark etganlar (bloklaganlar): {blocked}\n\n")
+        f.write("ID | Ismi | Qo'shilgan sana | Status\n")
+        for u in users:
+            f.write(f"{u[0]} | {u[1]} | {u[2]} | {u[3]}\n")
+            
+    # Faylni yuborish
+    await call.message.answer_document(FSInputFile(file_name), caption="Mana, barcha foydalanuvchilar statistikasi.")
     await call.answer()
+    
+    # Faylni o'chirish (serverni tozalash uchun)
+    os.remove(file_name)
 
 @dp.callback_query(F.data == "add_subject")
 async def start_add_subject(call: CallbackQuery, state: FSMContext):
