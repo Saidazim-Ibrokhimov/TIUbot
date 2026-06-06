@@ -111,9 +111,9 @@ async def start_cmd(message: Message, state: FSMContext):
     db.add_user(message.from_user.id, message.from_user.full_name, message.from_user.username)
     
     await message.answer(
-        f"Salom, {html.bold(message.from_user.full_name)}!\nSavol-javob botiga xush kelibsiz.\n Kerakli fanni tanlang, aniq va tekshirilgan javoblarni oling. \n\n {html.bold("G'oya muallifi va producer")} @Saidazim_Ibroximov",
+        f"Salom, {html.bold(message.from_user.full_name)}!\nSavol-javob botiga xush kelibsiz.\nKerakli fanni tanlang, aniq va tekshirilgan javoblarni oling. \n\n {html.bold("G'oya muallifi va producer")} @Saidazim_Ibroximov",
         reply_markup=kb.main_menu_keyboard(is_admin)
-    )
+        )
 
 @dp.message(F.text.contains("Fan tanlash"))
 async def show_subjects(message: Message, state: FSMContext):
