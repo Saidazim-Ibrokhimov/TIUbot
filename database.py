@@ -1,121 +1,86 @@
-import sqlite3
-import datetime
+import asyncpg
+import os
 
 class Database:
-    def __init__(self, db_name="data.db"):
-        self.conn = sqlite3.connect(db_name, check_same_thread=False)
-        self.create_tables()
+    def __init__(self, dsn):
+        self.dsn = dsn # Render bergan Database URL
+        self.conn = None
 
-    def create_tables(self):
-        cursor = self.conn.cursor()
-        
-        # 1. Foydalanuvchilar jadvali (status va created_at qo'shildi)
-        cursor.execute("""
+    async def connect(self):
+        self.conn = await asyncpg.connect(self.dsn)
+        await self.create_tables()
+
+    async def create_tables(self):
+        await self.conn.execute("""
             CREATE TABLE IF NOT EXISTS users (
-                user_id INTEGER PRIMARY KEY,
+                user_id BIGINT PRIMARY KEY,
                 full_name TEXT,
                 username TEXT,
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 status TEXT DEFAULT 'active'
-            )
-        """)
-        
-        # Jadvalni yangilash: Agar ustunlar oldin bo'lmagan bo'lsa, xatolik bermasligi uchun
-        try:
-            cursor.execute("ALTER TABLE users ADD COLUMN created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP")
-        except: pass
-        try:
-            cursor.execute("ALTER TABLE users ADD COLUMN status TEXT DEFAULT 'active'")
-        except: pass
-
-        # 2. Fanlar jadvali
-        cursor.execute("""
+            );
             CREATE TABLE IF NOT EXISTS subjects (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                id SERIAL PRIMARY KEY,
                 name TEXT UNIQUE
-            )
-        """)
-        
-        # 3. Savol-javoblar jadvali
-        cursor.execute("""
+            );
             CREATE TABLE IF NOT EXISTS questions (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                subject_id INTEGER,
+                id SERIAL PRIMARY KEY,
+                subject_id INTEGER REFERENCES subjects(id) ON DELETE CASCADE,
                 question TEXT,
-                answer TEXT,
-                FOREIGN KEY (subject_id) REFERENCES subjects(id) ON DELETE CASCADE
-            )
+                answer TEXT
+            );
         """)
-        self.conn.commit()
 
-    # --- FOYDALANUVCHILAR ---
-    def add_user(self, user_id, full_name, username):
-        cursor = self.conn.cursor()
-        cursor.execute(
-            "INSERT OR IGNORE INTO users (user_id, full_name, username) VALUES (?, ?, ?)",
-            (user_id, full_name, username)
+    async def add_user(self, user_id, full_name, username):
+        await self.conn.execute(
+            "INSERT INTO users (user_id, full_name, username) VALUES ($1, $2, $3) ON CONFLICT(user_id) DO NOTHING",
+            user_id, full_name, username
         )
-        self.conn.commit()
 
-    def get_users_count(self):
-        cursor = self.conn.cursor()
-        return cursor.execute("SELECT COUNT(*) FROM users").fetchone()[0]
+    async def get_users_count(self):
+        return await self.conn.fetchval("SELECT COUNT(*) FROM users")
 
-    def get_all_users(self):
-        cursor = self.conn.cursor()
-        return cursor.execute("SELECT user_id FROM users").fetchall()
+    async def get_all_users(self):
+        return await self.conn.fetch("SELECT user_id FROM users")
 
-    def get_all_users_info(self):
-        cursor = self.conn.cursor()
-        return cursor.execute("SELECT user_id, full_name, created_at, status FROM users").fetchall()
+    async def get_all_users_info(self):
+        return await self.conn.fetch("SELECT user_id, full_name, created_at, status FROM users")
 
-    def get_stats_summary(self):
-        cursor = self.conn.cursor()
-        total = cursor.execute("SELECT COUNT(*) FROM users").fetchone()[0]
-        active = cursor.execute("SELECT COUNT(*) FROM users WHERE status = 'active'").fetchone()[0]
-        blocked = cursor.execute("SELECT COUNT(*) FROM users WHERE status = 'blocked'").fetchone()[0]
+    async def get_stats_summary(self):
+        total = await self.conn.fetchval("SELECT COUNT(*) FROM users")
+        active = await self.conn.fetchval("SELECT COUNT(*) FROM users WHERE status = 'active'")
+        blocked = await self.conn.fetchval("SELECT COUNT(*) FROM users WHERE status = 'blocked'")
         return total, active, blocked
 
-    # --- FANLAR VA SAVOLLAR ---
-    def add_subject(self, name):
-        cursor = self.conn.cursor()
+    async def add_subject(self, name):
         try:
-            cursor.execute("INSERT INTO subjects (name) VALUES (?)", (name,))
-            self.conn.commit()
+            await self.conn.execute("INSERT INTO subjects (name) VALUES ($1)", name)
             return True
-        except sqlite3.IntegrityError:
+        except:
             return False
 
-    def get_subjects(self):
-        cursor = self.conn.cursor()
-        return cursor.execute("SELECT id, name FROM subjects").fetchall()
+    async def get_subjects(self):
+        return await self.conn.fetch("SELECT id, name FROM subjects")
 
-    def add_question(self, subject_id, question_text, answer_text):
-        cursor = self.conn.cursor()
-        cursor.execute("INSERT INTO questions (subject_id, question, answer) VALUES (?, ?, ?)",
-                       (subject_id, question_text, answer_text))
-        self.conn.commit()
+    async def add_question(self, subject_id, question, answer):
+        await self.conn.execute("INSERT INTO questions (subject_id, question, answer) VALUES ($1, $2, $3)",
+                                subject_id, question, answer)
 
-    def check_and_add_question(self, subject_id, question_text, answer_text):
-        cursor = self.conn.cursor()
-        cursor.execute("SELECT id FROM questions WHERE subject_id = ? AND question = ?", (subject_id, question_text))
-        if cursor.fetchone(): return False
-        cursor.execute("INSERT INTO questions (subject_id, question, answer) VALUES (?, ?, ?)", 
-                       (subject_id, question_text, answer_text))
-        self.conn.commit()
+    async def check_and_add_question(self, subject_id, question, answer):
+        exists = await self.conn.fetchval("SELECT id FROM questions WHERE subject_id = $1 AND question = $2", subject_id, question)
+        if exists: return False
+        await self.add_question(subject_id, question, answer)
         return True
 
-    def search_question(self, subject_id, query_text):
-        cursor = self.conn.cursor()
-        cursor.execute("SELECT question, answer FROM questions WHERE subject_id = ?", (subject_id,))
-        rows = cursor.fetchall()
+    async def search_question(self, subject_id, query_text):
+        rows = await self.conn.fetch("SELECT question, answer FROM questions WHERE subject_id = $1", subject_id)
         
         def clean(t): return " ".join(t.lower().replace("'", "").replace("?", "").split())
         
         cleaned_query = clean(query_text)
-        for q, a in rows:
-            if cleaned_query in clean(q): return (a,)
+        for row in rows:
+            if cleaned_query in clean(row['question']): return (row['answer'],)
         return None
 
-    def close(self):
-        self.conn.close()
+    async def close(self):
+        await self.conn.close()
