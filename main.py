@@ -159,7 +159,7 @@ async def admin_panel(message: Message, state: FSMContext):
     await state.clear()
     await message.answer("Admin boshqaruv paneli:", reply_markup=kb.admin_keyboard())
 
-@dp.callback_query(F.data == "export_stats")
+@dp.callback_query(F.data == "admin_stats")
 async def export_stats_to_txt(call: CallbackQuery):
     if call.from_user.id != ADMIN_ID: return
     
